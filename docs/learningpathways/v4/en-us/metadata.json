@@ -164,6 +164,24 @@
     }
   ],
   "Categories": [
+    "Id": "f0fdb432-a8ae-44c0-9ee8-ad806f759cc9",
+      "Name": "PFI Helpdesk Content",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "SubCategories": [
+        {
+          "Id": "f92d20b0-1448-430e-a4de-fc1ba82703a2",
+          "Name": "Test",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Custom",
+          "SubCategories": []
+        },
+      ]
+    },
     {
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
       "Name": "Get started",
