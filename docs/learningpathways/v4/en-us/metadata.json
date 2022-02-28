@@ -193,7 +193,7 @@
       ]
     },
     {
-      "Id": "4c28dd7f-beb1-43bc-b20e-a014fd40c5a6",
+      "Id": "1137d94b-2ffe-4fe5-8d9d-7ab313afe06c",
       "Name": "PFI Learning Centre Content",
       "Image": "",
       "TechnologyId": "",
@@ -201,7 +201,7 @@
       "Source": "Custom",
       "SubCategories": [
         {
-          "Id": "7d6a5bfb-b2f2-41a5-b45f-e05785930b8d",
+          "Id": "14648b32-c757-434f-a64e-bbf36a3ac602",
           "Name": "Test",
           "Image": "",
           "TechnologyId": "",
