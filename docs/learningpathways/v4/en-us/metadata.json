@@ -1,38 +1,8 @@
 {
   "Technologies": [
     {
-      "Id": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
-      "Name": "SharePoint",
-      "Subjects": [
-        {
-          "Id": "2324ad0f-5577-408f-b5aa-fad1e5a8f208",
-          "Name": "Site Branding and Customization"
-        },
-        {
-          "Id": "2a5f3071-3cf3-45f0-949a-cafc07af413b",
-          "Name": "Policies"
-        },
-        {
-          "Id": "41128013-96b4-442f-b44f-a30b232a2782",
-          "Name": "Site Management"
-        },
-        {
-          "Id": "839db42f-02e6-4d57-93c2-b061f8075c95",
-          "Name": "Site Sharing"
-        },
-        {
-          "Id": "c0af989f-3c4b-4f6f-ba58-7f2a335cb445",
-          "Name": "Site Creation"
-        },
-        {
-          "Id": "e772e866-7b81-4e5c-bfad-36aa9ee98eaf",
-          "Name": "Site Planning"
-        }
-      ]
-    },
-    {
-      "Id": "e9d69805-edb5-43da-8258-5520000bf3a6",
-      "Name": "Sway",
+      "Id": "0E40143C-BD50-4F5A-8943-28C528467518",
+      "Name": "ETO",
       "Subjects": []
     }
   ],
