@@ -15,6 +15,36 @@
     "Assets": []
   },
   {
+    "Id": "10",
+    "Title": [
+      {
+        "LanguageCode": "en-us",
+        "Text": "Inventor - Getting started"
+      }
+    ],
+    "Image": [
+      {
+        "LanguageCode": "en-us",
+        "Text": "https://blogs.autodesk.com/inventor/wp-content/uploads/sites/73/2017/09/inventor-icon-128px-hd.png"
+      }
+    ],
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "CatId": "c1698119-43ea-46a6-b398-7aa1fc09a70d",
+    "Description": [
+      {
+        "LanguageCode": "en-us",
+        "Text": "Autodesk - Inventor - Getting Started Playlist"
+      }
+    ],
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [ "30", "31", "32", "33", "34" ]
+  },
+  {
     "Id": "bb92e79e-fe45-4f82-83ab-704b75bb6223",
     "Title": "Get started with Teams",
     "Image": "images/playlists/manage_meetings.png",
