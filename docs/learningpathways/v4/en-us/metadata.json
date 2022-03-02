@@ -4,6 +4,51 @@
       "Id": "0E40143C-BD50-4F5A-8943-28C528467518",
       "Name": "ETO",
       "Subjects": []
+    },
+    {
+      "Id": "1d64310f-5a64-4043-bcd3-a900b3b81c1b",
+      "Name": "Autodesk - Inventor",
+      "Subjects": []
+    },
+    {
+      "Id": "87e5402c-3362-4214-811a-247f77ee93bc",
+      "Name": "Autodesk - Vault",
+      "Subjects": []
+    },
+    {
+      "Id": "2ead128b-c10a-4753-83a6-bb8be5393b9b",
+      "Name": "PFI Applications",
+      "Subjects": []
+    },
+    {
+      "Id": "41754a1b-28af-4632-814f-4cb68631c57a",
+      "Name": "PFI Reference Guides",
+      "Subjects": []
+    },
+    {
+      "Id": "762b0ee4-ec99-4253-bcf3-c8ee75177541",
+      "Name": "General IT",
+      "Subjects": []
+    },
+    {
+      "Id": "835a610b-2be8-4b35-a2da-17bbd662a7e2",
+      "Name": "Ready",
+      "Subjects": []
+    },
+    {
+      "Id": "ce949813-b884-40ba-8dd7-386676892668",
+      "Name": "MS Excel",
+      "Subjects": []
+    },
+    {
+      "Id": "1c0251a2-2140-4699-9b59-087f864e52cf",
+      "Name": "MS Teams",
+      "Subjects": []
+    },
+    {
+      "Id": "f6098572-7157-4f0a-b031-071636f94e92",
+      "Name": "MS Word",
+      "Subjects": []
     }
   ],
   "Categories": [
