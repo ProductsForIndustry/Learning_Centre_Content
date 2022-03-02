@@ -13,45 +13,7 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": []
-    //  "365-378767af-7ac3-4d68-9d0f-709b6948a76b",
-    //  "1fa93876-0318-4622-b473-142a3bfd6495",
-    //  "fb440590-1b4d-4562-94ba-61123b299e3d",
-    //  "be096b45-709c-473a-afb9-f7a998b3f435",
-    //  "4a358470-a1a3-4796-84ec-45adf4895473",
-    //  "c0a66323-d0ac-4c7f-8aa3-8eca9bf92817",
-    //  "b7f52310-54dd-4701-be3c-c0acbb8d998b"
-    //]
   },
-  //{
-  //  "Id": "1026096A-EB7E-404C-91A7-3C4BC2F8FDC9",
-  //  "Title": [
-  //    {
-  //      "LanguageCode": "en-us",
-  //      "Text": "Inventor - Getting started"
-  //    }
-  //  ],
-  //  "Image": [
-  //    {
-  //      "LanguageCode": "en-us",
-  //      "Text": "https://blogs.autodesk.com/inventor/wp-content/uploads/sites/73/2017/09/inventor-icon-128px-hd.png"
-  //    }
-  //  ],
-  //  "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-  //  "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
-  //  "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
-  //  "SubjectId": "",
-  //  "Source": "Custom",
-  //  "CatId": "1137d94b-2ffe-4fe5-8d9d-7ab313afe06c",
-  //  "Description": [
-  //    {
-  //      "LanguageCode": "en-us",
-  //      "Text": "Autodesk - Inventor - Getting Started Playlist"
-  //    }
-  //  ],
-  //  "StatusTagId": "",
-  //  "StatusNote": "",
-  //  "Assets": [] // [ "30", "31", "32", "33", "34" ]
-  //},
   {
     "Id": "bb92e79e-fe45-4f82-83ab-704b75bb6223",
     "Title": "Get started with Teams",
