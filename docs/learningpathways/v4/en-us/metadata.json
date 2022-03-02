@@ -79,14 +79,14 @@
       "Source": "PFI",
       "SubCategories": [
         {
-                "Id": "6522050b-3091-40a6-94cc-b092aacdb7d5",
-                "Name": "ETO",
-                "Image": "images/categories/Logo_ETO.png",
-                "TechnologyId": "",
-                "SubjectId": "",
-                "Source": "Tenant",
-                "SubCategories": []
-              }
+          "Id": "6522050b-3091-40a6-94cc-b092aacdb7d5",
+          "Name": "ETO",
+          "Image": "images/categories/Logo_ETO.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "PFI",
+          "SubCategories": []
+        }
       ]
     }
   ],
