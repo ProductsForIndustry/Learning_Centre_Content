@@ -4,52 +4,52 @@
       "Id": "0E40143C-BD50-4F5A-8943-28C528467518",
       "Name": "ETO",
       "Subjects": []
-    },
-    {
-      "Id": "1d64310f-5a64-4043-bcd3-a900b3b81c1b",
-      "Name": "Autodesk - Inventor",
-      "Subjects": []
-    },
-    {
-      "Id": "87e5402c-3362-4214-811a-247f77ee93bc",
-      "Name": "Autodesk - Vault",
-      "Subjects": []
-    },
-    {
-      "Id": "2ead128b-c10a-4753-83a6-bb8be5393b9b",
-      "Name": "PFI Applications",
-      "Subjects": []
-    },
-    {
-      "Id": "41754a1b-28af-4632-814f-4cb68631c57a",
-      "Name": "PFI Reference Guides",
-      "Subjects": []
-    },
-    {
-      "Id": "762b0ee4-ec99-4253-bcf3-c8ee75177541",
-      "Name": "General IT",
-      "Subjects": []
-    },
-    {
-      "Id": "835a610b-2be8-4b35-a2da-17bbd662a7e2",
-      "Name": "Ready",
-      "Subjects": []
-    },
-    {
-      "Id": "ce949813-b884-40ba-8dd7-386676892668",
-      "Name": "MS Excel",
-      "Subjects": []
-    },
-    {
-      "Id": "1c0251a2-2140-4699-9b59-087f864e52cf",
-      "Name": "MS Teams",
-      "Subjects": []
-    },
-    {
-      "Id": "f6098572-7157-4f0a-b031-071636f94e92",
-      "Name": "MS Word",
-      "Subjects": []
     }
+    //{
+    //  "Id": "1d64310f-5a64-4043-bcd3-a900b3b81c1b",
+    //  "Name": "Autodesk - Inventor",
+    //  "Subjects": []
+    //},
+    //{
+    //  "Id": "87e5402c-3362-4214-811a-247f77ee93bc",
+    //  "Name": "Autodesk - Vault",
+    //  "Subjects": []
+    //},
+    //{
+    //  "Id": "2ead128b-c10a-4753-83a6-bb8be5393b9b",
+    //  "Name": "PFI Applications",
+    //  "Subjects": []
+    //},
+    //{
+    //  "Id": "41754a1b-28af-4632-814f-4cb68631c57a",
+    //  "Name": "PFI Reference Guides",
+    //  "Subjects": []
+    //},
+    //{
+    //  "Id": "762b0ee4-ec99-4253-bcf3-c8ee75177541",
+    //  "Name": "General IT",
+    //  "Subjects": []
+    //},
+    //{
+    //  "Id": "835a610b-2be8-4b35-a2da-17bbd662a7e2",
+    //  "Name": "Ready",
+    //  "Subjects": []
+    //},
+    //{
+    //  "Id": "ce949813-b884-40ba-8dd7-386676892668",
+    //  "Name": "MS Excel",
+    //  "Subjects": []
+    //},
+    //{
+    //  "Id": "1c0251a2-2140-4699-9b59-087f864e52cf",
+    //  "Name": "MS Teams",
+    //  "Subjects": []
+    //},
+    //{
+    //  "Id": "f6098572-7157-4f0a-b031-071636f94e92",
+    //  "Name": "MS Word",
+    //  "Subjects": []
+    //}
   ],
   "Categories": [
     {
@@ -60,7 +60,7 @@
       "SubjectId": "",
       "Source": "PFI",
       "SubCategories": []
-    },
+    }
     //{
     //  "Id": "1137d94b-2ffe-4fe5-8d9d-7ab313afe06c",
     //  "Name": "PFI",
@@ -148,31 +148,31 @@
     {
       "Id": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
       "Name": "All"
-    },
-    {
-      "Id": "4fbf2318-f41e-499c-a54c-ab437d059193",
-      "Name": "Manager"
-    },
-    {
-      "Id": "e8689e3b-eeec-4c14-bd9f-29b9f8fb9eb9",
-      "Name": "HR & Finance"
-    },
-    {
-      "Id": "67567a7b-84d0-44c9-b97e-a0c52b7bda72",
-      "Name": "Engineering"
-    },
-    {
-      "Id": "f5e5a300-6b48-4880-9209-8f10929e302f",
-      "Name": "Sales"
-    },
-    {
-      "Id": "45889859-9ce0-4219-89d4-64f125ac02cc",
-      "Name": "Manufacturing"
-    },
-    {
-      "Id": "a249101a-5097-45e3-82ce-5f311fb9b00c",
-      "Name": "IT"
-    }    
+    }
+    //{
+    //  "Id": "4fbf2318-f41e-499c-a54c-ab437d059193",
+    //  "Name": "Manager"
+    //},
+    //{
+    //  "Id": "e8689e3b-eeec-4c14-bd9f-29b9f8fb9eb9",
+    //  "Name": "HR & Finance"
+    //},
+    //{
+    //  "Id": "67567a7b-84d0-44c9-b97e-a0c52b7bda72",
+    //  "Name": "Engineering"
+    //},
+    //{
+    //  "Id": "f5e5a300-6b48-4880-9209-8f10929e302f",
+    //  "Name": "Sales"
+    //},
+    //{
+    //  "Id": "45889859-9ce0-4219-89d4-64f125ac02cc",
+    //  "Name": "Manufacturing"
+    //},
+    //{
+    //  "Id": "a249101a-5097-45e3-82ce-5f311fb9b00c",
+    //  "Name": "IT"
+    //}    
   ],
   "Sources": [
     "SOC",
