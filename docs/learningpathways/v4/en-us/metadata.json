@@ -86,6 +86,60 @@
           "SubjectId": "",
           "Source": "PFI",
           "SubCategories": []
+        },
+        {
+          "Id": "1407ca23-8168-425f-9d9d-9903a60f3cfa",
+          "Name": "Ready",
+          "Image": "images/categories/Logo_Ready.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "PFI",
+          "SubCategories": []
+        },
+        {
+          "Id": "b51f763a-9df1-4de7-939c-3ecd3ec8ff27",
+          "Name": "PFI Applications",
+          "Image": "images/categories/Logo_PFI.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "PFI",
+          "SubCategories": []
+        },
+        {
+          "Id": "1892f8a9-198c-4c54-bbca-cc8dfd1a05f5",
+          "Name": "Microsoft",
+          "Image": "images/categories/Logo_Microsoft.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "PFI",
+          "SubCategories": []
+        },
+        {
+          "Id": "15042749-51e0-4458-bda9-ac674e798c3b",
+          "Name": "Autodesk Inventor",
+          "Image": "images/categories/Logo_Inventor.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "PFI",
+          "SubCategories": []
+        },
+        {
+          "Id": "85353d82-cc20-4fd6-90c1-0b06ff28ea0f",
+          "Name": "Autodesk Vault",
+          "Image": "images/categories/Logo_Vault.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "PFI",
+          "SubCategories": []
+        },
+        {
+          "Id": "ad556205-2b00-498b-8dca-86aeb5ecf5d0",
+          "Name": "General IT",
+          "Image": "images/categories/Logo_General IT.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "PFI",
+          "SubCategories": []
         }
       ]
     }
