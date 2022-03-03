@@ -126,32 +126,22 @@
       "Source": "PFI",
       "SubCategories": [
         {
-          "Id": "d02f41fa-9e58-4336-a739-f37e3eacbc7a",
-          "Name": "Autodesk",
-          "Image": "images/categories/PFI_Autodesk.png",
-          "TechnologyId": "",
+          "Id": "15042749-51e0-4458-bda9-ac674e798c3b",
+          "Name": "Autodesk Inventor",
+          "Image": "images/categories/PFI_Inventor.png",
+          "TechnologyId": "1d64310f-5a64-4043-bcd3-a900b3b81c1b",
           "SubjectId": "",
           "Source": "PFI",
-          "SubCategories": [
-            {
-              "Id": "15042749-51e0-4458-bda9-ac674e798c3b",
-              "Name": "Autodesk Inventor",
-              "Image": "images/categories/PFI_Inventor.png",
-              "TechnologyId": "1d64310f-5a64-4043-bcd3-a900b3b81c1b",
-              "SubjectId": "",
-              "Source": "PFI",
-              "SubCategories": []
-            },
-            {
-              "Id": "85353d82-cc20-4fd6-90c1-0b06ff28ea0f",
-              "Name": "Autodesk Vault",
-              "Image": "images/categories/PFI_Vault.png",
-              "TechnologyId": "87e5402c-3362-4214-811a-247f77ee93bc",
-              "SubjectId": "",
-              "Source": "PFI",
-              "SubCategories": []
-            }
-          ]
+          "SubCategories": []
+        },
+        {
+          "Id": "85353d82-cc20-4fd6-90c1-0b06ff28ea0f",
+          "Name": "Autodesk Vault",
+          "Image": "images/categories/PFI_Vault.png",
+          "TechnologyId": "87e5402c-3362-4214-811a-247f77ee93bc",
+          "SubjectId": "",
+          "Source": "PFI",
+          "SubCategories": []
         },
         {
           "Id": "6522050b-3091-40a6-94cc-b092aacdb7d5",
