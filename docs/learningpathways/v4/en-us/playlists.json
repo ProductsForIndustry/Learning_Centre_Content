@@ -238,7 +238,16 @@
     "Description": "Contains BOM and Item master Training and Reference articles",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "28c849d0-2ee2-4585-94fc-3088be80a962", "e8fd71d1-d2bd-4b1b-be42-fb5c59f5af5b", "cf005ac1-a60c-48a8-83ee-01edd375bae3", "e975002c-c8fd-4267-b7a6-e8faca5974bb", "81b35511-6a16-49c7-a684-deeae79bfb9c", "a4c5bd95-7ad5-4c95-91e1-c10fb51f5842", "0861f8fd-7a3b-46d9-a694-151d8d1148c1", "e61eda29-b519-4254-8b49-ef0abe2a9871" ]
+    "Assets": [
+      "28c849d0-2ee2-4585-94fc-3088be80a962",
+      "e8fd71d1-d2bd-4b1b-be42-fb5c59f5af5b",
+      "cf005ac1-a60c-48a8-83ee-01edd375bae3",
+      "e975002c-c8fd-4267-b7a6-e8faca5974bb",
+      "a4c5bd95-7ad5-4c95-91e1-c10fb51f5842",
+      "0861f8fd-7a3b-46d9-a694-151d8d1148c1",
+      "81b35511-6a16-49c7-a684-deeae79bfb9c",
+      "e61eda29-b519-4254-8b49-ef0abe2a9871"
+    ]
   },
   {
     "Id": "3d7eba1d-9829-42c1-9c43-ec5dbd6a3856",
@@ -388,7 +397,7 @@
     "Description": "Autodesk - Inventor Essentials",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "2f7cec61-6e22-468b-b90d-b539de269804", "40f2f77f-605b-47e6-8dbc-31c54e2567d6", "8f5c2c2e-5984-44a2-8226-2c5b7086a82e", "de1f5b02-c003-4194-98b7-84ae3ce24f91" ]
+    "Assets": [ "40f2f77f-605b-47e6-8dbc-31c54e2567d6", "8f5c2c2e-5984-44a2-8226-2c5b7086a82e", "de1f5b02-c003-4194-98b7-84ae3ce24f91", "2f7cec61-6e22-468b-b90d-b539de269804" ]
   },
   {
     "Id": "bc2afef5-4994-4168-ae8d-1e106d261bae",
@@ -448,7 +457,7 @@
     "Description": "PFIs Property Editor Inventor Addin",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "059595b4-c250-4b2f-9e45-ff3cfd850aa7", "a9320813-bbf5-4b42-a587-2cf0c360cb2f", "de8bf849-479c-4778-8d8b-166cb5fad3ac" ]
+    "Assets": [ "de8bf849-479c-4778-8d8b-166cb5fad3ac", "059595b4-c250-4b2f-9e45-ff3cfd850aa7", "a9320813-bbf5-4b42-a587-2cf0c360cb2f" ]
   },
   {
     "Id": "8a7974e0-731c-4c17-85b6-a7e5de6cc0bb",
@@ -688,7 +697,13 @@
     "Description": "Autodesk - Vault Essentials",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "08c743a0-980d-430e-bae7-d59262071695", "691c5808-cb9b-4789-93e5-9b0fe17b98a8", "7cf36ea3-0a89-4fa7-8294-8b1a7a07a711", "e63245fc-a9b5-4164-876a-1f915d9ab908", "f547c9b4-76eb-4342-b760-feebbe350102" ]
+    "Assets": [
+      "e63245fc-a9b5-4164-876a-1f915d9ab908",
+      "f547c9b4-76eb-4342-b760-feebbe350102",
+      "7cf36ea3-0a89-4fa7-8294-8b1a7a07a711",
+      "08c743a0-980d-430e-bae7-d59262071695",
+      "691c5808-cb9b-4789-93e5-9b0fe17b98a8"
+    ]
   },
   {
     "Id": "791d725f-9d15-413e-8b4c-cbb6e25cb38f",
@@ -703,6 +718,7 @@
     "Description": "Autodesk - Vault - Lifecycles and Revisions",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "0100f3d8-2475-474a-bbe4-d33aed5cb606", "bf8820cf-476a-4db6-b09a-7f6dd92169a5", "d9fc7a6c-1ae2-46fd-a235-563ec325fcbc", "f06b653f-7e97-4097-899d-ce2790da056a" ]
+    "Assets": [ "d9fc7a6c-1ae2-46fd-a235-563ec325fcbc", "f06b653f-7e97-4097-899d-ce2790da056a",
+                "0100f3d8-2475-474a-bbe4-d33aed5cb606", "bf8820cf-476a-4db6-b09a-7f6dd92169a5" ]
   }
 ]
