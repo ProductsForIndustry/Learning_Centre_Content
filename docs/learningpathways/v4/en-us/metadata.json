@@ -140,17 +140,7 @@
               "TechnologyId": "1d64310f-5a64-4043-bcd3-a900b3b81c1b",
               "SubjectId": "",
               "Source": "PFI",
-              "SubCategories": [
-                {
-                  "Id": "aad6a909-89f2-433a-836d-334164254e8c",
-                  "Name": "Inventor Addins",
-                  "Image": "images/categories/PFI_Inventor.png",
-                  "TechnologyId": "1d64310f-5a64-4043-bcd3-a900b3b81c1b",
-                  "SubjectId": "",
-                  "Source": "PFI",
-                  "SubCategories": []
-                }
-              ]
+              "SubCategories": []
             },
             {
               "Id": "85353d82-cc20-4fd6-90c1-0b06ff28ea0f",
