@@ -1,7 +1,7 @@
 [
   {
     "Id": "650271ff-813d-4711-9d41-d62eeea9b99e",
-    "Playlist": "Accounts",
+    "Title": "Accounts",
     "Image": "images/playlists/PFI_Accounts.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "e8689e3b-eeec-4c14-bd9f-29b9f8fb9eb9",
@@ -16,7 +16,7 @@
   },
   {
     "Id": "8778372b-431a-41e2-bd7e-9e1ba365b4e7",
-    "Playlist": "BOM & Item Master",
+    "Title": "BOM & Item Master",
     "Image": "images/playlists/PFI_Bom & Item Master.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -31,7 +31,7 @@
   },
   {
     "Id": "e8c03a0a-96ac-4cf8-8f50-5fa7fd8ed4c4",
-    "Playlist": "BOM & Item Master Basics",
+    "Title": "BOM & Item Master Basics",
     "Image": "images/playlists/PFI_Item Master Basics.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -46,7 +46,7 @@
   },
   {
     "Id": "483891f8-5ef3-4466-9993-6b406b36af47",
-    "Playlist": "Companies",
+    "Title": "Companies",
     "Image": "images/playlists/PFI_Companies.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -61,7 +61,7 @@
   },
   {
     "Id": "c237bf94-dd64-4c26-ab79-4fc0de94d3d3",
-    "Playlist": "ETO Essentials",
+    "Title": "ETO Essentials",
     "Image": "images/playlists/PFI_ETO Essentials.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -76,7 +76,7 @@
   },
   {
     "Id": "557f8589-5e38-46f7-8588-843722cff71e",
-    "Playlist": "Logistics",
+    "Title": "Logistics",
     "Image": "images/playlists/PFI_Logistics.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -91,7 +91,7 @@
   },
   {
     "Id": "d92ee190-4a2a-469c-8f40-813acf23bf3b",
-    "Playlist": "Process Schedules",
+    "Title": "Process Schedules",
     "Image": "images/playlists/PFI_Process Schedule.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -106,7 +106,7 @@
   },
   {
     "Id": "70dc91ad-df3d-4827-8656-f55a242f5347",
-    "Playlist": "ETO Administration",
+    "Title": "ETO Administration",
     "Image": "images/playlists/PFI_Administration.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "a249101a-5097-45e3-82ce-5f311fb9b00c",
@@ -121,7 +121,7 @@
   },
   {
     "Id": "180d3e35-a119-4dc9-a7b7-a3426623f1e5",
-    "Playlist": "Procurement",
+    "Title": "Procurement",
     "Image": "images/playlists/PFI_Procurement.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -136,7 +136,7 @@
   },
   {
     "Id": "e4febe28-5ed1-4457-b160-bc9a4975d264",
-    "Playlist": "Procurement Essentials",
+    "Title": "Procurement Essentials",
     "Image": "images/playlists/PFI_Procurement Essentials.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -151,7 +151,7 @@
   },
   {
     "Id": "0c921255-2974-42e5-9ca5-be6419425662",
-    "Playlist": "Sales",
+    "Title": "Sales",
     "Image": "images/playlists/PFI_Sales.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -166,7 +166,7 @@
   },
   {
     "Id": "e90699d6-99c9-4f7c-85e7-dd269f3fe246",
-    "Playlist": "Sales Essentials",
+    "Title": "Sales Essentials",
     "Image": "images/playlists/PFI_Sales Essentials.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -181,7 +181,7 @@
   },
   {
     "Id": "be8086d4-1e3a-4c3a-9247-1b31fb359188",
-    "Playlist": "Accounts - Mandatory",
+    "Title": "Accounts - Mandatory",
     "Image": "images/playlists/PFI_Accounts.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -196,7 +196,7 @@
   },
   {
     "Id": "6d557938-d5a7-46ad-b957-ba2d0a38beed",
-    "Playlist": "BOM & Item Master - Mandatory",
+    "Title": "BOM & Item Master - Mandatory",
     "Image": "images/playlists/PFI_Bom & Item Master.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -211,7 +211,7 @@
   },
   {
     "Id": "fe75cc3f-099c-43b0-88da-0188515442b4",
-    "Playlist": "BOM & Item Master Basics - Mandatory",
+    "Title": "BOM & Item Master Basics - Mandatory",
     "Image": "images/playlists/PFI_Bom & Item Master.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -226,7 +226,7 @@
   },
   {
     "Id": "31ee3d1c-b7cb-447d-943d-a2e302870c68",
-    "Playlist": "Companies - Mandatory",
+    "Title": "Companies - Mandatory",
     "Image": "images/playlists/PFI_Companies.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -241,7 +241,7 @@
   },
   {
     "Id": "551942b7-b5dd-4388-af2d-a3c9d8595ef8",
-    "Playlist": "ETO Administration - Mandatory",
+    "Title": "ETO Administration - Mandatory",
     "Image": "images/playlists/PFI_Administration.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -256,7 +256,7 @@
   },
   {
     "Id": "ad86a924-8eb2-4926-92bb-67de33328adc",
-    "Playlist": "ETO Essentials - Mandatory",
+    "Title": "ETO Essentials - Mandatory",
     "Image": "images/playlists/PFI_ETO Essentials.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -271,7 +271,7 @@
   },
   {
     "Id": "b3636fc0-c220-4da2-b1e9-a1d6ac85fae8",
-    "Playlist": "Logistics - Mandatory",
+    "Title": "Logistics - Mandatory",
     "Image": "images/playlists/PFI_Logistics.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -286,7 +286,7 @@
   },
   {
     "Id": "83169ee4-1e3c-4fa7-b076-1b2bebf658d0",
-    "Playlist": "Process Schedules - Mandatory",
+    "Title": "Process Schedules - Mandatory",
     "Image": "images/playlists/PFI_Process Schedule.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -301,7 +301,7 @@
   },
   {
     "Id": "6a6dbafa-89b1-41df-bdcf-04cd32fb1f2c",
-    "Playlist": "Procurement - Mandatory",
+    "Title": "Procurement - Mandatory",
     "Image": "images/playlists/PFI_Procurement.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -316,7 +316,7 @@
   },
   {
     "Id": "7b9f3ff0-a9b3-4356-88f7-3c254ef6e125",
-    "Playlist": "Procurement Essentials - Mandatory",
+    "Title": "Procurement Essentials - Mandatory",
     "Image": "images/playlists/PFI_Procurement Essentials.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -331,7 +331,7 @@
   },
   {
     "Id": "8fe21b7c-3147-4d3a-a31e-9e60188fb505",
-    "Playlist": "Sales - Mandatory",
+    "Title": "Sales - Mandatory",
     "Image": "images/playlists/PFI_Sales.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -346,7 +346,7 @@
   },
   {
     "Id": "3d7eba1d-9829-42c1-9c43-ec5dbd6a3856",
-    "Playlist": "Sales Essentials - Mandatory",
+    "Title": "Sales Essentials - Mandatory",
     "Image": "images/playlists/PFI_Sales Essentials.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -361,7 +361,7 @@
   },
   {
     "Id": "84e3b212-583c-4531-b182-5ff7b41ab5cc",
-    "Playlist": "Printers",
+    "Title": "Printers",
     "Image": "images/playlists/printer.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -376,7 +376,7 @@
   },
   {
     "Id": "56ec37b8-dace-4be7-9483-9e69c5a65c21",
-    "Playlist": "Inventor Essentials",
+    "Title": "Inventor Essentials",
     "Image": "images/playlists/PFI_Inventor.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "67567a7b-84d0-44c9-b97e-a0c52b7bda72",
@@ -391,7 +391,7 @@
   },
   {
     "Id": "bc2afef5-4994-4168-ae8d-1e106d261bae",
-    "Playlist": "Inventor Libraries",
+    "Title": "Inventor Libraries",
     "Image": "images/playlists/PFI_Inventor.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "67567a7b-84d0-44c9-b97e-a0c52b7bda72",
@@ -406,7 +406,7 @@
   },
   {
     "Id": "ad751003-1c3d-49c9-bbf6-0a736ce375fe",
-    "Playlist": "Common",
+    "Title": "Common",
     "Image": "images/playlists/PFI_Inventor.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "67567a7b-84d0-44c9-b97e-a0c52b7bda72",
@@ -421,7 +421,7 @@
   },
   {
     "Id": "6681614e-42d4-4283-b279-379cd48f16ac",
-    "Playlist": "Drawing Utility",
+    "Title": "Drawing Utility",
     "Image": "images/playlists/PFI_Inventor.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "67567a7b-84d0-44c9-b97e-a0c52b7bda72",
@@ -436,7 +436,7 @@
   },
   {
     "Id": "a56db1df-2b98-48de-93a5-0e4fa940fb70",
-    "Playlist": "Property Editor",
+    "Title": "Property Editor",
     "Image": "images/playlists/PFI_Inventor.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "67567a7b-84d0-44c9-b97e-a0c52b7bda72",
@@ -451,7 +451,7 @@
   },
   {
     "Id": "8a7974e0-731c-4c17-85b6-a7e5de6cc0bb",
-    "Playlist": "Microsoft Excel",
+    "Title": "Microsoft Excel",
     "Image": "images/playlists/excel.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -466,7 +466,7 @@
   },
   {
     "Id": "dc1b2b57-d662-4b5a-9263-5b1a30f9f9cf",
-    "Playlist": "Microsoft Teams",
+    "Title": "Microsoft Teams",
     "Image": "images/playlists/teams.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -481,7 +481,7 @@
   },
   {
     "Id": "8bbd809a-6a12-46ba-b470-1706182cd57c",
-    "Playlist": "Microsoft Word",
+    "Title": "Microsoft Word",
     "Image": "images/playlists/word.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -496,7 +496,7 @@
   },
   {
     "Id": "6c08b7f3-7fad-4fd4-906e-2cae50791fc8",
-    "Playlist": "Folder Mate",
+    "Title": "Folder Mate",
     "Image": "images/playlists/PFI_PFI.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -511,7 +511,7 @@
   },
   {
     "Id": "9055fb7d-7f82-4fe2-b9bb-023cc7d817df",
-    "Playlist": "Paper Importer",
+    "Title": "Paper Importer",
     "Image": "images/playlists/PFI_PFI.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -526,7 +526,7 @@
   },
   {
     "Id": "d659af9e-76e1-47ec-8b44-2b56f4ca1fc6",
-    "Playlist": "Procure Collator",
+    "Title": "Procure Collator",
     "Image": "images/playlists/PFI_PFI.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -541,7 +541,7 @@
   },
   {
     "Id": "83dddb3a-7fac-429b-89d6-e637004930cb",
-    "Playlist": "Folder Mate - Mandatory",
+    "Title": "Folder Mate - Mandatory",
     "Image": "images/playlists/PFI_PFI.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -556,7 +556,7 @@
   },
   {
     "Id": "9ad0b2d4-55cb-43a5-9e25-b638fe5e81e5",
-    "Playlist": "Paper Importer - Mandatory",
+    "Title": "Paper Importer - Mandatory",
     "Image": "images/playlists/PFI_PFI.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -571,7 +571,7 @@
   },
   {
     "Id": "90bd913e-c920-4a43-8726-bce1b8e73fc9",
-    "Playlist": "Procure Collator - Mandatory",
+    "Title": "Procure Collator - Mandatory",
     "Image": "images/playlists/PFI_PFI.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -586,7 +586,7 @@
   },
   {
     "Id": "8d8ba2f5-18aa-4326-acd8-9492c8054d29",
-    "Playlist": "HR",
+    "Title": "HR",
     "Image": "images/playlists/PFI_Ready.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "e8689e3b-eeec-4c14-bd9f-29b9f8fb9eb9",
@@ -601,7 +601,7 @@
   },
   {
     "Id": "14519672-7755-43d7-b413-cabeab13ad7a",
-    "Playlist": "Managers",
+    "Title": "Managers",
     "Image": "images/playlists/PFI_Ready.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "4fbf2318-f41e-499c-a54c-ab437d059193",
@@ -616,7 +616,7 @@
   },
   {
     "Id": "22d4c468-f330-40c9-ab44-0351593d970b",
-    "Playlist": "Ready Essentials",
+    "Title": "Ready Essentials",
     "Image": "images/playlists/PFI_Ready.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -631,7 +631,7 @@
   },
   {
     "Id": "154160ca-4036-44f0-8354-b155726040d0",
-    "Playlist": "Ready Essentials - Mandatory",
+    "Title": "Ready Essentials - Mandatory",
     "Image": "images/playlists/PFI_Ready.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -646,7 +646,7 @@
   },
   {
     "Id": "483660d8-9023-4ae9-8fed-c7daba677a5c",
-    "Playlist": "Stage A",
+    "Title": "Stage A",
     "Image": "images/playlists/PFI_Timesheet Importer.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "e8689e3b-eeec-4c14-bd9f-29b9f8fb9eb9",
@@ -661,7 +661,7 @@
   },
   {
     "Id": "ae70ab95-19d9-462b-97ab-628f8af8062e",
-    "Playlist": "Stage B",
+    "Title": "Stage B",
     "Image": "images/playlists/PFI_Timesheet Importer.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "e8689e3b-eeec-4c14-bd9f-29b9f8fb9eb9",
@@ -676,7 +676,7 @@
   },
   {
     "Id": "791d725f-9d15-413e-8b4c-cbb6e25cb38f",
-    "Playlist": "Lifecycles and revisions",
+    "Title": "Lifecycles and revisions",
     "Image": "images/playlists/PFI_Vault.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "67567a7b-84d0-44c9-b97e-a0c52b7bda72",
@@ -691,7 +691,7 @@
   },
   {
     "Id": "6c3149d5-b71b-4736-bd77-1a2b4050f8d3",
-    "Playlist": "Vault Essentials",
+    "Title": "Vault Essentials",
     "Image": "images/playlists/PFI_Vault.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "67567a7b-84d0-44c9-b97e-a0c52b7bda72",
