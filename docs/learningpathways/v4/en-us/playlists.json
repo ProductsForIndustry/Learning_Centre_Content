@@ -190,10 +190,10 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "788cb2f9-b703-40e7-bfe9-b9156c357450",
-    "Description": "Contains ETO Essentials, Navigating Grids, Searching for a Company, Searching for a Project, Searching for a Purchase Order, Reports, Quick Access Toolbar (QAT), Common Dialog Box Tabs, Notifications, Imports, Non Conformances",
+    "Description": "Contains ETO Essentials, Navigating Grids, Searching for a Company, Searching for a Project, Searching for a Purchase Order, Reports, Quick Access Toolbar (QAT), Common Dialog Box Tabs, Notifications, Non Conformances",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "f7ea83e6-efc4-483a-b598-e40625e45aff", "8a40f77e-adbe-466e-8b4c-1f56d114e315", "27b50e77-e877-44bd-b0da-dc8b3b3d45bd", "0521130e-68ea-4794-8f6e-8913d194d217" ]
+    "Assets": [ "f7ea83e6-efc4-483a-b598-e40625e45aff", "8a40f77e-adbe-466e-8b4c-1f56d114e315", "e2f715ff-279a-48b9-8fb3-3a720c2573f4", "557bae8f-d89d-4283-ad0d-02c0e112873a", "477f294e-13f0-4287-b731-e498f7ce2f58","27b50e77-e877-44bd-b0da-dc8b3b3d45bd", "c0a9e40c-de6c-4af2-9b6e-6ceadf6380b2","234ecfda-01c7-4eff-8e30-996bf4c3e0c8", "2c1addf9-ca22-4ee9-8030-648cb95f3250","0521130e-68ea-4794-8f6e-8913d194d217" ]
   },
   {
     "Id": "31ee3d1c-b7cb-447d-943d-a2e302870c68",
