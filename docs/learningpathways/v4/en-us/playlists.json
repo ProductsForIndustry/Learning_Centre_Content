@@ -174,10 +174,10 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "6522050b-3091-40a6-94cc-b092aacdb7d5",
-    "Description": "Contains ETO Administration",
+    "Description": "Contains ETO Administration, Events Log",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "21f3d6e5-34c5-4c66-b6e7-81b4a5dac097" ]
+    "Assets": [ "21f3d6e5-34c5-4c66-b6e7-81b4a5dac097", "11d35eee-4769-4769-9f75-60e66499230e" ]
   },
   {
     "Id": "ad86a924-8eb2-4926-92bb-67de33328adc",
