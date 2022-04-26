@@ -249,6 +249,16 @@
     "StatusTagId": "",
     "StatusNote": ""
   },
+   {
+    "Id": "35bf5f11-bd0c-4006-a554-d6b268991280",
+    "Title": "Labour Hour Types",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Labour-Hour-Types.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
   {
     "Id": "b55f4972-defb-4697-a3bc-19ab1acd1017",
     "Title": "Creating a Purchase Order",
