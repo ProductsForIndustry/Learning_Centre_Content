@@ -159,10 +159,10 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "6522050b-3091-40a6-94cc-b092aacdb7d5",
-    "Description": "Contains Accounts Receivable, Accounts Payable, WIP Setup and In House Orders, Importing AR and AP into Xero",
+    "Description": "Contains Accounts Receivable, Accounts Payable, WIP Setup and In House Orders, Importing AR and AP into Xero, Move Supplier Invoice to another AP Batch ",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "05762df2-67a1-4949-b9c0-3956278b5975", "2b99eef9-de0d-4d2c-b8ce-02b47de7ece2", "c67505be-d6a5-4d00-af5f-66f30b78a7e6", "8d2847ff-f17b-4934-9ca2-50c20dded5bc" ]
+    "Assets": [ "05762df2-67a1-4949-b9c0-3956278b5975", "2b99eef9-de0d-4d2c-b8ce-02b47de7ece2", "c67505be-d6a5-4d00-af5f-66f30b78a7e6", "8d2847ff-f17b-4934-9ca2-50c20dded5bc", "1e17ac52-753b-4f69-8b45-72d630a94059" ]
   },
   {
     "Id": "70dc91ad-df3d-4827-8656-f55a242f5347",
