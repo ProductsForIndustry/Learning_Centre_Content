@@ -389,6 +389,16 @@
     "StatusTagId": "",
     "StatusNote": ""
   },
+    {
+    "Id": "11d35eee-4769-4769-9f75-60e66499230e",
+    "Title": "Events Log",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Event-Logs.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
   {
     "Id": "f7ea83e6-efc4-483a-b598-e40625e45aff",
     "Title": "ETO Essentials",
