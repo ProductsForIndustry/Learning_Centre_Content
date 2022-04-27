@@ -99,10 +99,10 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "6522050b-3091-40a6-94cc-b092aacdb7d5",
-    "Description": "Contains Requesting items for POs, Searching for an RFQ, Creating an RFQ, Actions, Requisition Items for a Project or Inventory",
+    "Description": "Contains Requesting items for POs, Searching for an RFQ, Creating an RFQ, Actions, Requisition Items for a Project or Inventory, Item History, Procurement Breakdown",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "a674de5d-fd6b-4856-a168-927bb81b2d8b", "b6f4452a-9857-4752-8e2d-80e26ad7ee10", "a9dc6f6d-0dd2-4fea-9cd5-4b88f3e16f36", "9c8d8a64-d29f-4b35-a37f-e07a5e3950a9", "e2c0fca3-1fa2-45db-bad7-7a85da4a0597" ]
+    "Assets": [ "a674de5d-fd6b-4856-a168-927bb81b2d8b", "b6f4452a-9857-4752-8e2d-80e26ad7ee10", "a9dc6f6d-0dd2-4fea-9cd5-4b88f3e16f36", "9c8d8a64-d29f-4b35-a37f-e07a5e3950a9", "e2c0fca3-1fa2-45db-bad7-7a85da4a0597", "18386d66-3265-403e-a3db-cd66190a2281", "77165dd0-60aa-45c3-8216-65d2e9ec88b5" ]
   },
   {
     "Id": "180d3e35-a119-4dc9-a7b7-a3426623f1e5",
