@@ -329,6 +329,26 @@
     "StatusTagId": "",
     "StatusNote": ""
   },
+{
+    "Id": "77165dd0-60aa-45c3-8216-65d2e9ec88b5",
+    "Title": "Procurement Breakdown",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Procurement-Breakdown.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+{
+    "Id": "18386d66-3265-403e-a3db-cd66190a2281",
+    "Title": "Item History",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Item-History.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },  
   {
     "Id": "9c8d8a64-d29f-4b35-a37f-e07a5e3950a9",
     "Title": "Creating an RFQ",
