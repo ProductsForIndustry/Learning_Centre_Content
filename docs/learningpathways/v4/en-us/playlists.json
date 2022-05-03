@@ -54,10 +54,10 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "6522050b-3091-40a6-94cc-b092aacdb7d5",
-    "Description": "Contains BOM and Item master Training and Reference articles",
+    "Description": "Contains BOM and Item master Training and Reference articles, Item History",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "28c849d0-2ee2-4585-94fc-3088be80a962", "e8fd71d1-d2bd-4b1b-be42-fb5c59f5af5b", "cf005ac1-a60c-48a8-83ee-01edd375bae3", "e975002c-c8fd-4267-b7a6-e8faca5974bb", "81b35511-6a16-49c7-a684-deeae79bfb9c", "a4c5bd95-7ad5-4c95-91e1-c10fb51f5842", "0861f8fd-7a3b-46d9-a694-151d8d1148c1", "e61eda29-b519-4254-8b49-ef0abe2a9871" ]
+    "Assets": [ "28c849d0-2ee2-4585-94fc-3088be80a962", "e8fd71d1-d2bd-4b1b-be42-fb5c59f5af5b", "cf005ac1-a60c-48a8-83ee-01edd375bae3", "e975002c-c8fd-4267-b7a6-e8faca5974bb", "81b35511-6a16-49c7-a684-deeae79bfb9c", "a4c5bd95-7ad5-4c95-91e1-c10fb51f5842", "0861f8fd-7a3b-46d9-a694-151d8d1148c1", "e61eda29-b519-4254-8b49-ef0abe2a9871", "18386d66-3265-403e-a3db-cd66190a2281" ]
   },
  {
     "Id": "e90699d6-99c9-4f7c-85e7-dd269f3fe246",
