@@ -39,10 +39,10 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "6522050b-3091-40a6-94cc-b092aacdb7d5",
-    "Description": "BOM & Item Master simplified",
+    "Description": "BOM & Item Master simplified, Part Description Naming Convention, Item History",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "03230687-73da-4f1a-a966-cf1e0709a602", "51245b6b-3e4b-4b1b-9e0e-a415ba6ebae6" ]
+    "Assets": ["b4bb01b6-69bb-48df-bfa8-a21cf8a71697", "51245b6b-3e4b-4b1b-9e0e-a415ba6ebae6", "74c76353-ab91-4048-a6ec-213078493211", "03230687-73da-4f1a-a966-cf1e0709a602"]
   },
   {
     "Id": "8778372b-431a-41e2-bd7e-9e1ba365b4e7",
@@ -84,10 +84,10 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "6522050b-3091-40a6-94cc-b092aacdb7d5",
-    "Description": "Contains Creating a Project, Contacts, Parts Orders, Committed Costing, Creating a Sales Order, Creating a Change Order, Releasing a Project from the Sales Queue, Project and Part Quotes, Labour Hour Types",
+    "Description": "Contains Creating a Project, Contacts, Parts Orders, Committed Costing, Creating a Sales Order, Creating a Change Order, Releasing a Project from the Sales Queue, Action to Apply Standard Special Margins, Action for posting Time and Material Charge Ups to an Invoice, Update External Item numbers on POs and RFQs",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "110341bf-355d-48d5-b08d-addfe5da1c86", "dbb8d062-1efd-4a53-af90-1e4e112257b8", "d6efd45c-ab4c-4501-8090-7a42c71d6823", "52b1dcf9-00ab-457a-a2e6-36d94645dac0", "c8580b02-4c40-41b0-9ac1-7a9a7f38b915", "1e85c0d1-0b77-4003-ba90-a2314abd2393", "aa1ba8c9-bc95-4f03-a50c-a2e524576680", "73d66a17-a78b-4d40-a7d8-a3678cac5f5e", "35bf5f11-bd0c-4006-a554-d6b268991280" ]
+    "Assets": [ "36c3d571-a5aa-47a8-9f38-ee82f4856137", "e6c84227-db7d-4c96-aaf7-dbca77a49b7d", "52b1dcf9-00ab-457a-a2e6-36d94645dac0", "dbb8d062-1efd-4a53-af90-1e4e112257b8", "1e85c0d1-0b77-4003-ba90-a2314abd2393", "c8580b02-4c40-41b0-9ac1-7a9a7f38b915", "35bf5f11-bd0c-4006-a554-d6b268991280", "d6efd45c-ab4c-4501-8090-7a42c71d6823", "73d66a17-a78b-4d40-a7d8-a3678cac5f5e", "aa1ba8c9-bc95-4f03-a50c-a2e524576680", "110341bf-355d-48d5-b08d-addfe5da1c86" ]
   },
   {
     "Id": "e4febe28-5ed1-4457-b160-bc9a4975d264",
@@ -114,10 +114,10 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "6522050b-3091-40a6-94cc-b092aacdb7d5",
-    "Description": "Contains Creating a Purchase Order",
+    "Description": "Contains Creating a Purchase Order, Update External Item numbers on POs and RFQs",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "b55f4972-defb-4697-a3bc-19ab1acd1017" ]
+    "Assets": [ "b55f4972-defb-4697-a3bc-19ab1acd1017", "ab2e3ece-2f35-4e61-8266-fb7b6f223f5e", "3eb50125-1872-431e-afb6-d42ccf65f94f" ]
   },
   {
     "Id": "d92ee190-4a2a-469c-8f40-813acf23bf3b",
@@ -159,10 +159,10 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "6522050b-3091-40a6-94cc-b092aacdb7d5",
-    "Description": "Contains Accounts Receivable, Accounts Payable, WIP Setup and In House Orders, Importing AR and AP into Xero, Move Supplier Invoice to another AP Batch ",
+    "Description": "Contains Accounts Receivable, Accounts Payable, WIP Setup and In House Orders, Importing AR and AP into Xero, Action for posting Time and Material Charge Ups to an Invoice",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "05762df2-67a1-4949-b9c0-3956278b5975", "2b99eef9-de0d-4d2c-b8ce-02b47de7ece2", "c67505be-d6a5-4d00-af5f-66f30b78a7e6", "8d2847ff-f17b-4934-9ca2-50c20dded5bc", "1e17ac52-753b-4f69-8b45-72d630a94059" ]
+    "Assets": [ "2b99eef9-de0d-4d2c-b8ce-02b47de7ece2", "05762df2-67a1-4949-b9c0-3956278b5975", "8d2847ff-f17b-4934-9ca2-50c20dded5bc", "c67505be-d6a5-4d00-af5f-66f30b78a7e6", "1e17ac52-753b-4f69-8b45-72d630a94059" ]
   },
   {
     "Id": "70dc91ad-df3d-4827-8656-f55a242f5347",
@@ -288,10 +288,10 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "788cb2f9-b703-40e7-bfe9-b9156c357450",
-    "Description": "Contains Requesting items for POs, Searching for an RFQ, Creating an RFQ, Actions",
+    "Description": "Contains Requesting items for POs, Searching for an RFQ, Creating an RFQ, Actions, Requisition Items for a Project or Inventory, Item History, Procurement Breakdown",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "a674de5d-fd6b-4856-a168-927bb81b2d8b", "a9dc6f6d-0dd2-4fea-9cd5-4b88f3e16f36", "9c8d8a64-d29f-4b35-a37f-e07a5e3950a9" ]
+    "Assets": [ "18386d66-3265-403e-a3db-cd66190a2281", "77165dd0-60aa-45c3-8216-65d2e9ec88b5", "e2c0fca3-1fa2-45db-bad7-7a85da4a0597", "a9dc6f6d-0dd2-4fea-9cd5-4b88f3e16f36", "9c8d8a64-d29f-4b35-a37f-e07a5e3950a9", "a674de5d-fd6b-4856-a168-927bb81b2d8b", "b6f4452a-9857-4752-8e2d-80e26ad7ee10" ]
   },
   {
     "Id": "6a6dbafa-89b1-41df-bdcf-04cd32fb1f2c",
@@ -548,6 +548,7 @@
     "StatusNote": "",
     "Assets": [ "c6cc7f86-0302-4e80-b48b-ef8eb8cf7cbf" ]
   },
+
   {
     "Id": "83dddb3a-7fac-429b-89d6-e637004930cb",
     "Title": "Folder Mate - Mandatory",
