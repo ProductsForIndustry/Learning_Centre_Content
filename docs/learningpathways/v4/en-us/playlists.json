@@ -42,7 +42,7 @@
     "Description": "BOM & Item Master simplified, Part Description Naming Convention, Item History",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": ["b4bb01b6-69bb-48df-bfa8-a21cf8a71697", "51245b6b-3e4b-4b1b-9e0e-a415ba6ebae6", "74c76353-ab91-4048-a6ec-213078493211", "03230687-73da-4f1a-a966-cf1e0709a602"]
+    "Assets": ["b4bb01b6-69bb-48df-bfa8-a21cf8a71697", "51245b6b-3e4b-4b1b-9e0e-a415ba6ebae6", "74c76353-ab91-4048-a6ec-213078493211", "03230687-73da-4f1a-a966-cf1e0709a602", "18386d66-3265-403e-a3db-cd66190a2281"]
   },
   {
     "Id": "8778372b-431a-41e2-bd7e-9e1ba365b4e7",
@@ -87,7 +87,7 @@
     "Description": "Contains Creating a Project, Contacts, Parts Orders, Committed Costing, Creating a Sales Order, Creating a Change Order, Releasing a Project from the Sales Queue, Action to Apply Standard Special Margins, Action for posting Time and Material Charge Ups to an Invoice, Update External Item numbers on POs and RFQs",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "36c3d571-a5aa-47a8-9f38-ee82f4856137", "e6c84227-db7d-4c96-aaf7-dbca77a49b7d", "52b1dcf9-00ab-457a-a2e6-36d94645dac0", "dbb8d062-1efd-4a53-af90-1e4e112257b8", "1e85c0d1-0b77-4003-ba90-a2314abd2393", "c8580b02-4c40-41b0-9ac1-7a9a7f38b915", "35bf5f11-bd0c-4006-a554-d6b268991280", "d6efd45c-ab4c-4501-8090-7a42c71d6823", "73d66a17-a78b-4d40-a7d8-a3678cac5f5e", "aa1ba8c9-bc95-4f03-a50c-a2e524576680", "110341bf-355d-48d5-b08d-addfe5da1c86" ]
+    "Assets": [ "36c3d571-a5aa-47a8-9f38-ee82f4856137", "e6c84227-db7d-4c96-aaf7-dbca77a49b7d", "52b1dcf9-00ab-457a-a2e6-36d94645dac0", "dbb8d062-1efd-4a53-af90-1e4e112257b8", "1e85c0d1-0b77-4003-ba90-a2314abd2393", "c8580b02-4c40-41b0-9ac1-7a9a7f38b915", "35bf5f11-bd0c-4006-a554-d6b268991280", "d6efd45c-ab4c-4501-8090-7a42c71d6823", "73d66a17-a78b-4d40-a7d8-a3678cac5f5e", "aa1ba8c9-bc95-4f03-a50c-a2e524576680", "110341bf-355d-48d5-b08d-addfe5da1c86", "ab2e3ece-2f35-4e61-8266-fb7b6f223f5e" ]
   },
   {
     "Id": "e4febe28-5ed1-4457-b160-bc9a4975d264",
@@ -162,7 +162,7 @@
     "Description": "Contains Accounts Receivable, Accounts Payable, WIP Setup and In House Orders, Importing AR and AP into Xero, Action for posting Time and Material Charge Ups to an Invoice",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "2b99eef9-de0d-4d2c-b8ce-02b47de7ece2", "05762df2-67a1-4949-b9c0-3956278b5975", "8d2847ff-f17b-4934-9ca2-50c20dded5bc", "c67505be-d6a5-4d00-af5f-66f30b78a7e6", "1e17ac52-753b-4f69-8b45-72d630a94059" ]
+    "Assets": [ "2b99eef9-de0d-4d2c-b8ce-02b47de7ece2", "05762df2-67a1-4949-b9c0-3956278b5975", "8d2847ff-f17b-4934-9ca2-50c20dded5bc", "c67505be-d6a5-4d00-af5f-66f30b78a7e6", "1e17ac52-753b-4f69-8b45-72d630a94059", "36c3d571-a5aa-47a8-9f38-ee82f4856137" ]
   },
   {
     "Id": "70dc91ad-df3d-4827-8656-f55a242f5347",
