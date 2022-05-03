@@ -70,6 +70,26 @@
     "StatusNote": ""
   },
   {
+    "Id": "36c3d571-a5aa-47a8-9f38-ee82f4856137",
+    "Title": "Action for posting Time and Material Charge Ups to an Invoice",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Action-for-posting-Time-and-Material-Charge-Ups-to-an-Invoice.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "e6c84227-db7d-4c96-aaf7-dbca77a49b7d",
+    "Title": "Action to Apply Standard Special Margins",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Action-to-Apply-Standard-Special-Martgins.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },  
+  {
     "Id": "28c849d0-2ee2-4585-94fc-3088be80a962",
     "Title": "BOM & Item Master",
     "Url": "https://pfigroupnetau.sharepoint.com/sites/Learning_Centre/SitePages/BOM-&-Item-Master.aspx",
@@ -740,6 +760,16 @@
     "StatusNote": ""
   },
   {
+    "Id": "b4bb01b6-69bb-48df-bfa8-a21cf8a71697",
+    "Title": "Part Description Naming Conventions",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Part-Description-Naming-Conventions.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  }, 
+  {
     "Id": "8a40f77e-adbe-466e-8b4c-1f56d114e315",
     "Title": "Navigating Grids",
     "Url": "https://pfigroupnetau.sharepoint.com/sites/Learning_Centre/SitePages/Navigating-grids.aspx",
@@ -1128,7 +1158,17 @@
     "Source": "PFI",
     "StatusTagId": "",
     "StatusNote": ""
-  },  
+  }, 
+{
+    "Id": "ab2e3ece-2f35-4e61-8266-fb7b6f223f5e",
+    "Title": "Update External Item numbers on POs and RFQs",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Update-External-Item-Numbers-on-POs-and-RFQs.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },    
   {
     "Id": "0861f8fd-7a3b-46d9-a694-151d8d1148c1",
     "Title": "Revisions",
