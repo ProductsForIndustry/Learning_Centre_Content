@@ -360,6 +360,26 @@
     "StatusNote": ""
   },
 {
+    "Id": "3eb50125-1872-431e-afb6-d42ccf65f94f",
+    "Title": "Import Price Lists",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Import-Price-Lists.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+{
+    "Id": "f7b2952a-2307-49c7-993a-ed15d4a79435",
+    "Title": "Import Inventory",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Import-Inventory.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
     "Id": "18386d66-3265-403e-a3db-cd66190a2281",
     "Title": "Item History",
     "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Item-History.aspx",
