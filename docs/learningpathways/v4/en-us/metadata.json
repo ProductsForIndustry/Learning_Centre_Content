@@ -96,6 +96,15 @@
           "Source": "PFI",
           "SubCategories": []
         }
+        {
+          "Id": "66be94c0-8e4f-490c-a0e8-f6dc66346303",
+          "Name": "Announcements",
+          "Image": "images/categories/Announcements.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "PFI",
+          "SubCategories": []
+        }
       ]
     },
     {
