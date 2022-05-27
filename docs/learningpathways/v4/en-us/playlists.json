@@ -144,10 +144,10 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "6522050b-3091-40a6-94cc-b092aacdb7d5",
-    "Description": "Contains Shipping an Order, Receive PO, Receiving Logs, Import Inventory",
+    "Description": "Contains Shipping an Order, Receive PO, Receiving Logs, Import Inventory, Inventory",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "f7b2952a-2307-49c7-993a-ed15d4a79435", "da711b8f-4b67-42b4-89cd-7324c9af7b00", "91e7a7e3-2970-4c04-81ed-5e23a9751427", "ea5ba1e8-e055-40bf-99f9-766109ad1070" ]
+    "Assets": [ "f7b2952a-2307-49c7-993a-ed15d4a79435", "da711b8f-4b67-42b4-89cd-7324c9af7b00", "91e7a7e3-2970-4c04-81ed-5e23a9751427", "ea5ba1e8-e055-40bf-99f9-766109ad1070", "f69ee1ba-d26c-4e72-aa81-c90b4e82fec1" ]
   },
   {
     "Id": "650271ff-813d-4711-9d41-d62eeea9b99e",
