@@ -390,6 +390,16 @@
     "StatusNote": ""
   },  
   {
+    "Id": "f69ee1ba-d26c-4e72-aa81-c90b4e82fec1",
+    "Title": "Inventory",
+    "Url": "https://pfigroupnetau.sharepoint.com/sites/Learning_Centre/SitePages/Inventory(1).aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  }, 
+  {
     "Id": "9c8d8a64-d29f-4b35-a37f-e07a5e3950a9",
     "Title": "Creating an RFQ",
     "Url": "https://pfigroupnetau.sharepoint.com/sites/Learning_Centre/SitePages/Creating-an-RFQ.aspx",
