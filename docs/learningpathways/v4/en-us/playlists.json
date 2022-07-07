@@ -84,10 +84,10 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "6522050b-3091-40a6-94cc-b092aacdb7d5",
-    "Description": "Contains Creating a Project, Contacts, Parts Orders, Committed Costing, Creating a Sales Order, Creating a Change Order, Releasing a Project from the Sales Queue, Action to Apply Standard Special Margins, Action for posting Time and Material Charge Ups to an Invoice, Update External Item numbers on POs and RFQs",
+    "Description": "Contains Creating a Project, Contacts, Parts Orders, Committed Costing, Creating a Sales Order, Creating a Change Order, Releasing a Project from the Sales Queue, Action to Apply Standard Special Margins, Action for posting Time and Material Charge Ups to an Invoice, Update External Item numbers on POs and RFQs, Action for Creating a Charge Up Project",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "36c3d571-a5aa-47a8-9f38-ee82f4856137", "e6c84227-db7d-4c96-aaf7-dbca77a49b7d", "52b1dcf9-00ab-457a-a2e6-36d94645dac0", "dbb8d062-1efd-4a53-af90-1e4e112257b8", "1e85c0d1-0b77-4003-ba90-a2314abd2393", "c8580b02-4c40-41b0-9ac1-7a9a7f38b915", "35bf5f11-bd0c-4006-a554-d6b268991280", "d6efd45c-ab4c-4501-8090-7a42c71d6823", "73d66a17-a78b-4d40-a7d8-a3678cac5f5e", "aa1ba8c9-bc95-4f03-a50c-a2e524576680", "110341bf-355d-48d5-b08d-addfe5da1c86", "ab2e3ece-2f35-4e61-8266-fb7b6f223f5e" ]
+    "Assets": [ "2731ff5f-e3fd-4ba7-8e93-5b69c463a350", "36c3d571-a5aa-47a8-9f38-ee82f4856137", "e6c84227-db7d-4c96-aaf7-dbca77a49b7d", "52b1dcf9-00ab-457a-a2e6-36d94645dac0", "dbb8d062-1efd-4a53-af90-1e4e112257b8", "1e85c0d1-0b77-4003-ba90-a2314abd2393", "c8580b02-4c40-41b0-9ac1-7a9a7f38b915", "35bf5f11-bd0c-4006-a554-d6b268991280", "d6efd45c-ab4c-4501-8090-7a42c71d6823", "73d66a17-a78b-4d40-a7d8-a3678cac5f5e", "aa1ba8c9-bc95-4f03-a50c-a2e524576680", "110341bf-355d-48d5-b08d-addfe5da1c86" ]
   },
   {
     "Id": "e4febe28-5ed1-4457-b160-bc9a4975d264",
@@ -604,10 +604,10 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "1407ca23-8168-425f-9d9d-9903a60f3cfa",
-    "Description": "Contains logging in, installing the app, navigation, submitting timesheets. requesting leave",
+    "Description": "Contains logging in, installing the app, navigation, submitting timesheets, requesting leave, Entering my Timesheet in Ready",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "71040f6a-2f81-43a1-b837-df7afd23d132", "81ec408e-8684-45b8-961b-5292f0f9f3fe", "4d6506bc-2497-49fd-b825-d23bfd9c003c" ]
+    "Assets": [ "46c91330-7b61-419f-94fb-5b9a29fa6dca", "81ec408e-8684-45b8-961b-5292f0f9f3fe", "4d6506bc-2497-49fd-b825-d23bfd9c003c", "71040f6a-2f81-43a1-b837-df7afd23d132" ]
   },
   {
     "Id": "14519672-7755-43d7-b413-cabeab13ad7a",
@@ -649,10 +649,10 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "befdeb60-ba28-4404-8214-2dae388c931e",
-    "Description": "Contains logging in, installing the app, navigation, submitting timesheets. requesting leave",
+    "Description": "Contains logging in, installing the app, navigation, submitting timesheets, requesting leave, Entering my Timesheet in Ready",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "71040f6a-2f81-43a1-b837-df7afd23d132", "81ec408e-8684-45b8-961b-5292f0f9f3fe", "4d6506bc-2497-49fd-b825-d23bfd9c003c" ]
+    "Assets": [ "46c91330-7b61-419f-94fb-5b9a29fa6dca", "81ec408e-8684-45b8-961b-5292f0f9f3fe", "4d6506bc-2497-49fd-b825-d23bfd9c003c", "71040f6a-2f81-43a1-b837-df7afd23d132" ]
   },
   {
     "Id": "483660d8-9023-4ae9-8fed-c7daba677a5c",
