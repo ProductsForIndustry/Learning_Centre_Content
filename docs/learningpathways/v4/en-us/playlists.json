@@ -604,10 +604,10 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "1407ca23-8168-425f-9d9d-9903a60f3cfa",
-    "Description": "Contains logging in, installing the app, navigation, submitting timesheets, requesting leave, Entering my Timesheet in Ready, Quick guide for requesting leave,Quick guide for approving leave ",
+    "Description": "Contains logging in, installing the app, navigation, submitting timesheets, requesting leave, Entering my Timesheet in Ready, Requesting leave",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "46c91330-7b61-419f-94fb-5b9a29fa6dca", "068cf9c2448743ba8c1a37d9a66265b5", "97c5063df84c441889321cba8d2f689b", "81ec408e-8684-45b8-961b-5292f0f9f3fe", "4d6506bc-2497-49fd-b825-d23bfd9c003c", "71040f6a-2f81-43a1-b837-df7afd23d132", "fdbe594f-5073-4839-bcfb-bb785fa72eff", "d08ae66f-8901-4ee9-a2cd-2081921b241d" ]
+    "Assets": [ "46c91330-7b61-419f-94fb-5b9a29fa6dca", "97c5063df84c441889321cba8d2f689b", "81ec408e-8684-45b8-961b-5292f0f9f3fe", "4d6506bc-2497-49fd-b825-d23bfd9c003c", "71040f6a-2f81-43a1-b837-df7afd23d132", "fdbe594f-5073-4839-bcfb-bb785fa72eff", "d08ae66f-8901-4ee9-a2cd-2081921b241d" ]
   },
   {
     "Id": "14519672-7755-43d7-b413-cabeab13ad7a",
@@ -619,10 +619,10 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "1407ca23-8168-425f-9d9d-9903a60f3cfa",
-    "Description": "Contains accessing staff files, onboarding, request a change to employee details (i.e salary change)",
+    "Description": "Contains accessing staff files, onboarding, request a change to employee details (i.e salary change), Leave approval",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "2c7d1611-7345-476a-863c-21ce5544139a", "71767460-bbdd-4299-b2e4-44824dbb8733" ]
+    "Assets": [ "068cf9c2448743ba8c1a37d9a66265b5", "71767460-bbdd-4299-b2e4-44824dbb8733", "2c7d1611-7345-476a-863c-21ce5544139a" ]
   },
   {
     "Id": "8d8ba2f5-18aa-4326-acd8-9492c8054d29",
@@ -634,10 +634,10 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "1407ca23-8168-425f-9d9d-9903a60f3cfa",
-    "Description": "Contains onboarding, offboarding adding an employee to ETO, updating employee details, accruals training",
+    "Description": "Contains onboarding, offboarding adding an employee to ETO, updating employee details, accruals training, Leave Approval",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "2c7d1611-7345-476a-863c-21ce5544139a", "d4e1ac06-ab9b-45a4-a1a7-f1e4228cc20b", "d4e1ac06-ab9b-45a4-a1a7-f1e4228cc20b" ]
+    "Assets": [ "068cf9c2448743ba8c1a37d9a66265b5", "d4e1ac06-ab9b-45a4-a1a7-f1e4228cc20b", "d4e1ac06-ab9b-45a4-a1a7-f1e4228cc20b", "2c7d1611-7345-476a-863c-21ce5544139a" ]
   },
   {
     "Id": "154160ca-4036-44f0-8354-b155726040d0",
@@ -649,10 +649,10 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "befdeb60-ba28-4404-8214-2dae388c931e",
-    "Description": "Contains logging in, installing the app, navigation, submitting timesheets, requesting leave, Entering my Timesheet in Ready",
+    "Description": "Contains logging in, installing the app, navigation, submitting timesheets, requesting leave, Entering my Timesheet in Ready, Leave Request, Leave Approval",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "46c91330-7b61-419f-94fb-5b9a29fa6dca", "81ec408e-8684-45b8-961b-5292f0f9f3fe", "4d6506bc-2497-49fd-b825-d23bfd9c003c", "71040f6a-2f81-43a1-b837-df7afd23d132" ]
+    "Assets": [ "46c91330-7b61-419f-94fb-5b9a29fa6dca", "068cf9c2448743ba8c1a37d9a66265b5", "97c5063df84c441889321cba8d2f689b", "81ec408e-8684-45b8-961b-5292f0f9f3fe", "4d6506bc-2497-49fd-b825-d23bfd9c003c", "71040f6a-2f81-43a1-b837-df7afd23d132" ]
   },
   {
     "Id": "483660d8-9023-4ae9-8fed-c7daba677a5c",
