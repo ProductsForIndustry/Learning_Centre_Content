@@ -1458,5 +1458,15 @@
     "Source": "PFI",
     "StatusTagId": "",
     "StatusNote": ""
+ },
+  {
+    "Id": "d2197a3153ef4539b178d5de927a5f0b",
+    "Title": "Import Vault BOM data into ETO",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Import%20Vault%202%20ETO.aspx",
+    "TechnologyId": "87e5402c-3362-4214-811a-247f77ee93bc",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
  }
 ]
