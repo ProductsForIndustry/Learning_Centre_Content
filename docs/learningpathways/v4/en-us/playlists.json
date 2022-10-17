@@ -12,7 +12,7 @@
     "Description": "Contains ETO Essentials, Logging into ETO, Navigating Grids, Searching for a Company, Searching for a Project, Searching for a Purchase Order, Reports, Quick Access Toolbar (QAT), Common Dialog Box Tabs, Notifications, Imports, Non Conformances, Events Log, Item History, Where Does it Live?",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": ["234ecfda-01c7-4eff-8e30-996bf4c3e0c8", "f7ea83e6-efc4-483a-b598-e40625e45aff", "7bbbf84d-35fb-4438-a91e-a9ca121a32d6", "8a40f77e-adbe-466e-8b4c-1f56d114e315", "c0a9e40c-de6c-4af2-9b6e-6ceadf6380b2", "27b50e77-e877-44bd-b0da-dc8b3b3d45bd", "e2f715ff-279a-48b9-8fb3-3a720c2573f4", "477f294e-13f0-4287-b731-e498f7ce2f58", "41ce0c1dc3224da9986625717165aa62", "7120f67d-6f1f-44f3-b5b4-493cc4a94bd8", "11d35eee-4769-4769-9f75-60e66499230e", "2ca2125d-c8e6-4461-b112-d195861063f2", "2c1addf9-ca22-4ee9-8030-648cb95f3250", "557bae8f-d89d-4283-ad0d-02c0e112873a"]  
+    "Assets": ["234ecfda-01c7-4eff-8e30-996bf4c3e0c8", "f7ea83e6-efc4-483a-b598-e40625e45aff", "7bbbf84d-35fb-4438-a91e-a9ca121a32d6", "8a40f77e-adbe-466e-8b4c-1f56d114e315", "c0a9e40c-de6c-4af2-9b6e-6ceadf6380b2", "27b50e77-e877-44bd-b0da-dc8b3b3d45bd", "e2f715ff-279a-48b9-8fb3-3a720c2573f4", "477f294e-13f0-4287-b731-e498f7ce2f58", "41ce0c1dc3224da9986625717165aa62", "7120f67d-6f1f-44f3-b5b4-493cc4a94bd8", "11d35eee-4769-4769-9f75-60e66499230e", "2ca2125d-c8e6-4461-b112-d195861063f2", "2c1addf9-ca22-4ee9-8030-648cb95f3250", "557bae8f-d89d-4283-ad0d-02c0e112873a", "0521130e-68ea-4794-8f6e-8913d194d217"]  
   },
   {
     "Id": "483891f8-5ef3-4466-9993-6b406b36af47",
@@ -84,10 +84,10 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "6522050b-3091-40a6-94cc-b092aacdb7d5",
-    "Description": "Contains Creating a Project, Contacts, Parts Orders, Committed Costing, Creating a Sales Order, Creating a Change Order, Releasing a Project from the Sales Queue, Labour hours, Project and Part quotes, Action to Apply Standard Special Margins, Action for posting Time and Material Charge Ups to an Invoice, Action for Creating a Charge Up Project, Project quotes detailed, non conformances",
+    "Description": "Contains Creating a Project, Contacts, Parts Orders, Committed Costing, Creating a Sales Order, Creating a Change Order, Releasing a Project from the Sales Queue, Labour hours, Project and Part quotes, Action to Apply Standard Special Margins, Action for posting Time and Material Charge Ups to an Invoice, Action for Creating a Charge Up Project, Project quotes detailed",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "110341bf-355d-48d5-b08d-addfe5da1c86", "dbb8d062-1efd-4a53-af90-1e4e112257b8", "d6efd45c-ab4c-4501-8090-7a42c71d6823", "52b1dcf9-00ab-457a-a2e6-36d94645dac0", "c8580b02-4c40-41b0-9ac1-7a9a7f38b915", "1e85c0d1-0b77-4003-ba90-a2314abd2393", "aa1ba8c9-bc95-4f03-a50c-a2e524576680", "35bf5f11-bd0c-4006-a554-d6b268991280", "73d66a17-a78b-4d40-a7d8-a3678cac5f5e", "e6c84227-db7d-4c96-aaf7-dbca77a49b7d", "36c3d571-a5aa-47a8-9f38-ee82f4856137", "2731ff5f-e3fd-4ba7-8e93-5b69c463a350", "8a4b4a04-9999-4db0-9412-349a8a4d35ac", "0521130e-68ea-4794-8f6e-8913d194d217" ]
+    "Assets": [ "110341bf-355d-48d5-b08d-addfe5da1c86", "dbb8d062-1efd-4a53-af90-1e4e112257b8", "d6efd45c-ab4c-4501-8090-7a42c71d6823", "52b1dcf9-00ab-457a-a2e6-36d94645dac0", "c8580b02-4c40-41b0-9ac1-7a9a7f38b915", "1e85c0d1-0b77-4003-ba90-a2314abd2393", "aa1ba8c9-bc95-4f03-a50c-a2e524576680", "35bf5f11-bd0c-4006-a554-d6b268991280", "73d66a17-a78b-4d40-a7d8-a3678cac5f5e", "e6c84227-db7d-4c96-aaf7-dbca77a49b7d", "36c3d571-a5aa-47a8-9f38-ee82f4856137", "2731ff5f-e3fd-4ba7-8e93-5b69c463a350", "8a4b4a04-9999-4db0-9412-349a8a4d35ac" ]
   },
   {
     "Id": "e4febe28-5ed1-4457-b160-bc9a4975d264",
