@@ -1119,7 +1119,7 @@
     "StatusTagId": "",
     "StatusNote": ""
   },
-{
+  {
     "Id": "ea5ba1e8-e055-40bf-99f9-766109ad1070",
     "Title": "Receiving Logs",
     "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Receiving-Logs.aspx",
@@ -1189,7 +1189,7 @@
     "StatusTagId": "",
     "StatusNote": ""
   },
-{
+  {
     "Id": "e2c0fca3-1fa2-45db-bad7-7a85da4a0597",
     "Title": "Requisition Items for a Project or Inventory",
     "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Requisition-Items-for-a-Project-or-Inventory.aspx",
@@ -1199,7 +1199,7 @@
     "StatusTagId": "",
     "StatusNote": ""
   }, 
-{
+  {
     "Id": "ab2e3ece-2f35-4e61-8266-fb7b6f223f5e",
     "Title": "Update External Item numbers on POs and RFQs",
     "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Update-External-Item-Numbers-on-POs-and-RFQs.aspx",
@@ -1299,7 +1299,7 @@
     "StatusTagId": "",
     "StatusNote": ""
   },
-   {
+  {
     "Id": "5471378d-d230-4968-8e6e-5b91042d65f5",
     "Title": "Export Timesheets",
     "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Export-Timesheets.aspx",
@@ -1399,7 +1399,7 @@
     "StatusTagId": "",
     "StatusNote": ""
   },
-{
+  {
     "Id": "2731ff5f-e3fd-4ba7-8e93-5b69c463a350",
     "Title": "Action for Creating a Charge Up Project",
     "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Action-for-Creating-a-Charge-Up-Project.aspx",
@@ -1409,7 +1409,7 @@
     "StatusTagId": "",
     "StatusNote": ""
   },
-{
+  {
     "Id": "46c91330-7b61-419f-94fb-5b9a29fa6dca",
     "Title": "Entering my Timesheet in Ready",
     "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Entering-my-Timesheet-in-Ready.aspx",
@@ -1419,7 +1419,7 @@
     "StatusTagId": "",
     "StatusNote": ""
   },
-{
+  {
     "Id": "f084b1b4-67a1-4b94-a237-d8d068a89085",
     "Title": "Importing Order Acknowledgements and Quotes",
     "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Importing-Order-Acknowledgements-and-Quotes.aspx",
@@ -1429,7 +1429,7 @@
     "StatusTagId": "",
     "StatusNote": ""
   },
-{
+  {
     "Id": "97c5063df84c441889321cba8d2f689b",
     "Title": "Leave Request",
     "Url": "https://pfigroupnetau.sharepoint.com/sites/Learning_Centre/SitePages/Leave-Request---Ready.aspx",
@@ -1439,7 +1439,7 @@
     "StatusTagId": "",
     "StatusNote": ""
   },
-{
+  {
     "Id": "068cf9c2448743ba8c1a37d9a66265b5",
     "Title": "Leave Approval",
     "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Leave-approval---Ready.aspx",
@@ -1458,7 +1458,7 @@
     "Source": "PFI",
     "StatusTagId": "",
     "StatusNote": ""
- },
+  },
   {
     "Id": "d2197a3153ef4539b178d5de927a5f0b",
     "Title": "Import Vault BOM data into ETO",
@@ -1468,7 +1468,7 @@
     "Source": "PFI",
     "StatusTagId": "",
     "StatusNote": ""
- },
+  },
   {
     "Id": "93182c89-3d57-4cb2-85e5-7a4ae6374626",
     "Title": "Pre-Reviewer check",
@@ -1478,5 +1478,15 @@
     "Source": "PFI",
     "StatusTagId": "",
     "StatusNote": ""
+  },
+  {
+    "Id": "8a4b4a04-9999-4db0-9412-349a8a4d35ac",
+    "Title": "Project Quote detailed",
+    "Url": "https://pfigroupnetau.sharepoint.com/sites/Learning_Centre/SitePages/Project-Quote-det.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
   }
-]
+ ]
