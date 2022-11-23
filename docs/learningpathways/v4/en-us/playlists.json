@@ -84,10 +84,10 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "6522050b-3091-40a6-94cc-b092aacdb7d5",
-    "Description": "Contains Creating a Project, Contacts, Parts Orders, Committed Costing, Creating a Sales Order, Creating a Change Order, Releasing a Project from the Sales Queue, Labour hours, Project and Part quotes, Action to Apply Standard Special Margins, Action for posting Time and Material Charge Ups to an Invoice, Action for Creating a Charge Up Project, Project quotes detailed",
+    "Description": "Contains Creating a Project, Contacts, Parts Orders, Committed Costing, Creating a Sales Order, Creating a Change Order, Releasing a Project from the Sales Queue, Labour hours, Project and Part quotes, Action to Apply Standard Special Margins, Action for posting Time and Material Charge Ups to an Invoice, Action for Creating a Charge Up Project, Project quotes detailed, Action for posting AR Terms-T&M",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "110341bf-355d-48d5-b08d-addfe5da1c86", "dbb8d062-1efd-4a53-af90-1e4e112257b8", "d6efd45c-ab4c-4501-8090-7a42c71d6823", "52b1dcf9-00ab-457a-a2e6-36d94645dac0", "c8580b02-4c40-41b0-9ac1-7a9a7f38b915", "1e85c0d1-0b77-4003-ba90-a2314abd2393", "aa1ba8c9-bc95-4f03-a50c-a2e524576680", "35bf5f11-bd0c-4006-a554-d6b268991280", "73d66a17-a78b-4d40-a7d8-a3678cac5f5e", "e6c84227-db7d-4c96-aaf7-dbca77a49b7d", "36c3d571-a5aa-47a8-9f38-ee82f4856137", "2731ff5f-e3fd-4ba7-8e93-5b69c463a350", "8a4b4a04-9999-4db0-9412-349a8a4d35ac" ]
+    "Assets": [ "110341bf-355d-48d5-b08d-addfe5da1c86", "dbb8d062-1efd-4a53-af90-1e4e112257b8", "d6efd45c-ab4c-4501-8090-7a42c71d6823", "52b1dcf9-00ab-457a-a2e6-36d94645dac0", "c8580b02-4c40-41b0-9ac1-7a9a7f38b915", "1e85c0d1-0b77-4003-ba90-a2314abd2393", "aa1ba8c9-bc95-4f03-a50c-a2e524576680", "35bf5f11-bd0c-4006-a554-d6b268991280", "73d66a17-a78b-4d40-a7d8-a3678cac5f5e", "e6c84227-db7d-4c96-aaf7-dbca77a49b7d", "36c3d571-a5aa-47a8-9f38-ee82f4856137", "2731ff5f-e3fd-4ba7-8e93-5b69c463a350", "8a4b4a04-9999-4db0-9412-349a8a4d35ac", "04dcd728-c65d-49c9-bc0e-6fb38b621ccf" ]
   },
   {
     "Id": "e4febe28-5ed1-4457-b160-bc9a4975d264",
