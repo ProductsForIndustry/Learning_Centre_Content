@@ -720,5 +720,20 @@
     "StatusNote": "",
     "Assets": [ "d9fc7a6c-1ae2-46fd-a235-563ec325fcbc", "f06b653f-7e97-4097-899d-ce2790da056a",
                 "0100f3d8-2475-474a-bbe4-d33aed5cb606", "bf8820cf-476a-4db6-b09a-7f6dd92169a5", "d2197a3153ef4539b178d5de927a5f0b", "93182c89-3d57-4cb2-85e5-7a4ae6374626"]
-  }
+  },
+ {
+    "Id": "026e429f-3f6a-47e2-bcf3-de13e4c9e6f5",
+    "Title": "FAQ-ETO",
+    "Image": "images/playlists/FAQ icon_FAQ.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "1e1acf20-30b5-4679-8e6e-9780e8b9cd54",
+    "SubjectId": "",
+    "Source": "PFI",
+    "CatId": "41754a1b-28af-4632-814f-4cb68631c57a",
+    "Description": "",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [ "65452934-8e01-4fc7-a7ed-0060ba9134b2"]
+  } 
 ]
