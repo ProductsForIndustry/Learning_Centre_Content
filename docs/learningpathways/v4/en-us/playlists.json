@@ -604,10 +604,10 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "1407ca23-8168-425f-9d9d-9903a60f3cfa",
-    "Description": "Contains logging in, installing the app, navigation, submitting timesheets, requesting leave, Entering my Timesheet in Ready, Requesting leave",
+    "Description": "Contains logging in, installing the app, navigation, submitting timesheets, requesting leave, Entering my Timesheet in Ready, Requesting leave, Sleeping Away From Home Allowance(SAFHA)",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "46c91330-7b61-419f-94fb-5b9a29fa6dca", "97c5063df84c441889321cba8d2f689b", "81ec408e-8684-45b8-961b-5292f0f9f3fe", "4d6506bc-2497-49fd-b825-d23bfd9c003c", "71040f6a-2f81-43a1-b837-df7afd23d132", "fdbe594f-5073-4839-bcfb-bb785fa72eff", "d08ae66f-8901-4ee9-a2cd-2081921b241d" ]
+    "Assets": [ "46c91330-7b61-419f-94fb-5b9a29fa6dca", "97c5063df84c441889321cba8d2f689b", "81ec408e-8684-45b8-961b-5292f0f9f3fe", "4d6506bc-2497-49fd-b825-d23bfd9c003c", "71040f6a-2f81-43a1-b837-df7afd23d132", "fdbe594f-5073-4839-bcfb-bb785fa72eff", "d08ae66f-8901-4ee9-a2cd-2081921b241d", "71040f6a-2f81-43a1-b837-df7afd23d132" ]
   },
   {
     "Id": "14519672-7755-43d7-b413-cabeab13ad7a",
