@@ -735,5 +735,20 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [ "65452934-8e01-4fc7-a7ed-0060ba9134b2"]
-  } 
+  },
+  {
+    "Id": "6c3149d5-b71b-4736-bd77-1a2b4050f8d3",
+    "Title": "PFI Drafting Standards",
+    "Image": "images/playlists/PFI_PFI.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "67567a7b-84d0-44c9-b97e-a0c52b7bda72",
+    "TechnologyId": "99f13050-4043-4396-bab7-4eaae571624c",
+    "SubjectId": "",
+    "Source": "PFI",
+    "CatId": "66f3d862-4c81-40ac-bf59-b4f8b1ab7e60",
+    "Description": "",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [ ""]
+  }
 ]
