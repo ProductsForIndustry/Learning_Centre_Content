@@ -201,18 +201,8 @@
   },
   {
     "Id": "c7d1ffec-8231-4316-adb1-731eafde79b9",
-    "Title": "Creating a Company",
-    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Creating-a-Company.aspx",
-    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
-    "SubjectId": "",
-    "Source": "PFI",
-    "StatusTagId": "",
-    "StatusNote": ""
-  },
-  {
-    "Id": "c7d1ffec-8231-4316-adb1-731eafde79b9",
-    "Title": "Creating a Company",
-    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Creating-a-Company.aspx",
+    "Title": "Companies",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Companies.aspx",
     "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
     "SubjectId": "",
     "Source": "PFI",
