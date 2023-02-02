@@ -1080,16 +1080,6 @@
     "StatusNote": ""
   },
   {
-    "Id": "aa1ba8c9-bc95-4f03-a50c-a2e524576680",
-    "Title": "Releasing a Project from the Sales Queue",
-    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Releasing-a-Project-from-the-Sales-Queue.aspx",
-    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
-    "SubjectId": "",
-    "Source": "PFI",
-    "StatusTagId": "",
-    "StatusNote": ""
-  },
-  {
     "Id": "27b50e77-e877-44bd-b0da-dc8b3b3d45bd",
     "Title": "Reports",
     "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Reports.aspx",
@@ -1478,5 +1468,35 @@
     "Source": "PFI",
     "StatusTagId": "",
     "StatusNote": ""
-  }
+  },
+  {
+    "Id": "3fa0a1e0-2285-42d5-96ef-4c763f791fb9",
+    "Title": "Project Queues",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Project%20Queues.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "46cd3702-9892-4f4b-b0e9-8e9be15aceab",
+    "Title": "AR Queue",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/AR%20Queue.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "3d2d6cb0-7d7a-49ec-b506-87bc7a24dbfb",
+    "Title": "Accounting Queue",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Accounting%20Queue.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
  ]
