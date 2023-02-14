@@ -1508,5 +1508,15 @@
     "Source": "PFI",
     "StatusTagId": "",
     "StatusNote": ""
+  },
+  {
+    "Id": "436aa0a5-78f8-48dc-b9f2-04b74d4ef1f8",
+    "Title": "AR Queue Ok To Invoice",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/AR%20Queue%20Ok%20To%20Invoice.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
   }  
  ]
