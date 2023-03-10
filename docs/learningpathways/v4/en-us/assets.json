@@ -1528,5 +1528,25 @@
     "Source": "PFI",
     "StatusTagId": "",
     "StatusNote": ""
-  }  
+  },  
+  {
+    "Id": "574e5347-8631-4666-9a59-5374556cafd1",
+    "Title": "Parts Order AR Terms",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Parts-Order---AR-Terms.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "fb64461e-8221-44b6-ad59-6a904141ec09",
+    "Title": "Action for Parts Order AR Terms",
+    "Url": "https://https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Action-for-Parts-Order-AR-Terms.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  }
  ]
