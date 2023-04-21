@@ -99,10 +99,10 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "6522050b-3091-40a6-94cc-b092aacdb7d5",
-    "Description": "Contains Requesting items for POs, Searching for an RFQ, Creating an RFQ, Actions, Requisition Items for a Project or Inventory, Item History, Procurement Breakdown",
+    "Description": "Contains Requesting items for POs, Searching for an RFQ, Creating an RFQ, Actions, Requisition Items for a Project or Inventory, Item History, Procurement Breakdown, Preferred Supplier List",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "a674de5d-fd6b-4856-a168-927bb81b2d8b", "b6f4452a-9857-4752-8e2d-80e26ad7ee10", "a9dc6f6d-0dd2-4fea-9cd5-4b88f3e16f36", "9c8d8a64-d29f-4b35-a37f-e07a5e3950a9", "e2c0fca3-1fa2-45db-bad7-7a85da4a0597", "18386d66-3265-403e-a3db-cd66190a2281", "77165dd0-60aa-45c3-8216-65d2e9ec88b5" ]
+    "Assets": [ "a674de5d-fd6b-4856-a168-927bb81b2d8b", "b6f4452a-9857-4752-8e2d-80e26ad7ee10", "a9dc6f6d-0dd2-4fea-9cd5-4b88f3e16f36", "9c8d8a64-d29f-4b35-a37f-e07a5e3950a9", "e2c0fca3-1fa2-45db-bad7-7a85da4a0597", "18386d66-3265-403e-a3db-cd66190a2281", "77165dd0-60aa-45c3-8216-65d2e9ec88b5", "22575534-b365-46b6-90c3-b0beb05c9060" ]
   },
   {
     "Id": "180d3e35-a119-4dc9-a7b7-a3426623f1e5",
@@ -114,10 +114,10 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "6522050b-3091-40a6-94cc-b092aacdb7d5",
-    "Description": "Contains Creating a Purchase Order, Update External Item numbers on POs and RFQs, Import Price Lists, Importing Order Acknowledgements and RFQs, Requisition items for Inventory",
+    "Description": "Contains Creating a Purchase Order, Update External Item numbers on POs and RFQs, Import Price Lists, Importing Order Acknowledgements and RFQs, Requisition items for Inventory, Preferred Supplier List",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": ["b55f4972-defb-4697-a3bc-19ab1acd1017", "f084b1b4-67a1-4b94-a237-d8d068a89085", "3eb50125-1872-431e-afb6-d42ccf65f94f", "ab2e3ece-2f35-4e61-8266-fb7b6f223f5e", "c61b3a2c-63d3-4b83-bc25-ec33f2ec8afb" ]
+    "Assets": ["b55f4972-defb-4697-a3bc-19ab1acd1017", "f084b1b4-67a1-4b94-a237-d8d068a89085", "3eb50125-1872-431e-afb6-d42ccf65f94f", "ab2e3ece-2f35-4e61-8266-fb7b6f223f5e", "c61b3a2c-63d3-4b83-bc25-ec33f2ec8afb", "22575534-b365-46b6-90c3-b0beb05c9060" ]
   },
   {
     "Id": "d92ee190-4a2a-469c-8f40-813acf23bf3b",
