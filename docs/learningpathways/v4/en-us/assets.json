@@ -1568,5 +1568,15 @@
     "Source": "PFI",
     "StatusTagId": "",
     "StatusNote": ""
+  },
+  {
+    "Id": "22575534-b365-46b6-90c3-b0beb05c9060",
+    "Title": "Preferred Suppliers List",
+    "Url": "https://pfigroupnetau.sharepoint.com/sites/Learning_Centre/SitePages/Preferred-Suppliers-List.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
   }
  ]
