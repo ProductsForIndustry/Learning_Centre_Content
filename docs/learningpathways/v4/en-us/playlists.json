@@ -84,10 +84,10 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "6522050b-3091-40a6-94cc-b092aacdb7d5",
-    "Description": "Contains Projects - Cheat Sheets, Projects, Project Status, Contacts, Parts Orders, Committed Costing, Creating a Sales Order, Creating a Change Order, Releasing a Project from the Sales Queue, Labour hours, Project and Part quotes, Action to Apply Standard Special Margins, Project quotes detailed, Action - Create Charge Up, Action - Post AR Terms T and M, Sales Queue, AR Queue Ok To Invoice, Parts Order AR Terms, Action for Parts Order AR Terms",
+    "Description": "Contains Projects - Cheat Sheets, Projects, Project Status, Contacts, Parts Orders, Committed Costing, Creating a Sales Order, Creating a Change Order, Releasing a Project from the Sales Queue, Labour hours, Project and Part quotes, Action to Apply Standard Special Margins, Project quotes detailed, Action - Create Charge Up, Action - Post AR Terms T and M, Sales Queue, AR Queue Ok To Invoice, Parts Order AR Terms, Action for Parts Order AR Terms, Sales Rates",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "c21f198a-6819-48c8-a30c-76ccc6cb6496", "110341bf-355d-48d5-b08d-addfe5da1c86", "f3a0ae73-c2eb-4610-a537-187e04a092fe", "dbb8d062-1efd-4a53-af90-1e4e112257b8", "d6efd45c-ab4c-4501-8090-7a42c71d6823", "52b1dcf9-00ab-457a-a2e6-36d94645dac0", "c8580b02-4c40-41b0-9ac1-7a9a7f38b915", "1e85c0d1-0b77-4003-ba90-a2314abd2393", "aa1ba8c9-bc95-4f03-a50c-a2e524576680", "35bf5f11-bd0c-4006-a554-d6b268991280", "73d66a17-a78b-4d40-a7d8-a3678cac5f5e", "e6c84227-db7d-4c96-aaf7-dbca77a49b7d", "8a4b4a04-9999-4db0-9412-349a8a4d35ac", "2731ff5f-e3fd-4ba7-8e93-5b69c463a350", "36c3d571-a5aa-47a8-9f38-ee82f4856137", "aa1ba8c9-bc95-4f03-a50c-a2e524576680", "436aa0a5-78f8-48dc-b9f2-04b74d4ef1f8", "574e5347-8631-4666-9a59-5374556cafd1", "fb64461e-8221-44b6-ad59-6a904141ec09"]
+    "Assets": [ "c21f198a-6819-48c8-a30c-76ccc6cb6496", "110341bf-355d-48d5-b08d-addfe5da1c86", "f3a0ae73-c2eb-4610-a537-187e04a092fe", "dbb8d062-1efd-4a53-af90-1e4e112257b8", "d6efd45c-ab4c-4501-8090-7a42c71d6823", "52b1dcf9-00ab-457a-a2e6-36d94645dac0", "c8580b02-4c40-41b0-9ac1-7a9a7f38b915", "1e85c0d1-0b77-4003-ba90-a2314abd2393", "aa1ba8c9-bc95-4f03-a50c-a2e524576680", "35bf5f11-bd0c-4006-a554-d6b268991280", "73d66a17-a78b-4d40-a7d8-a3678cac5f5e", "e6c84227-db7d-4c96-aaf7-dbca77a49b7d", "8a4b4a04-9999-4db0-9412-349a8a4d35ac", "2731ff5f-e3fd-4ba7-8e93-5b69c463a350", "36c3d571-a5aa-47a8-9f38-ee82f4856137", "aa1ba8c9-bc95-4f03-a50c-a2e524576680", "436aa0a5-78f8-48dc-b9f2-04b74d4ef1f8", "574e5347-8631-4666-9a59-5374556cafd1", "fb64461e-8221-44b6-ad59-6a904141ec09","63a0c4e0-338d-4a26-9f59-cd8694e5b80c"]
   },
   {
     "Id": "e4febe28-5ed1-4457-b160-bc9a4975d264",
@@ -129,10 +129,10 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "6522050b-3091-40a6-94cc-b092aacdb7d5",
-    "Description": "Contains Process Schedules",
+    "Description": "Contains Process Schedules, Initialising process schedules overall - Cheat sheet, Shop floor collection- Cheat Sheet",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "8420c287-9f7c-49e5-b8ab-e0d5029f3936" ]
+    "Assets": [ "8420c287-9f7c-49e5-b8ab-e0d5029f3936","8cd83674-d3a8-4003-9483-60948f5c5aa8", "22f4607a-c0c2-462c-bdaf-72c2b49a9bc2" ]
   },
   {
     "Id": "557f8589-5e38-46f7-8588-843722cff71e",
@@ -144,10 +144,10 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "6522050b-3091-40a6-94cc-b092aacdb7d5",
-    "Description": "Contains Shipping an Order, Receive PO, Receiving Logs, Import Inventory, Inventory",
+    "Description": "Contains Shipping an Order, Receive PO, Receiving Logs, Import Inventory, Inventory, Packing Slips-Cheat sheet",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "f7b2952a-2307-49c7-993a-ed15d4a79435", "da711b8f-4b67-42b4-89cd-7324c9af7b00", "91e7a7e3-2970-4c04-81ed-5e23a9751427", "ea5ba1e8-e055-40bf-99f9-766109ad1070", "f69ee1ba-d26c-4e72-aa81-c90b4e82fec1" ]
+    "Assets": [ "f7b2952a-2307-49c7-993a-ed15d4a79435", "da711b8f-4b67-42b4-89cd-7324c9af7b00", "91e7a7e3-2970-4c04-81ed-5e23a9751427", "ea5ba1e8-e055-40bf-99f9-766109ad1070", "f69ee1ba-d26c-4e72-aa81-c90b4e82fec1","15496809-0ee5-4045-9072-ae7d1b7fe574" ]
   },
   {
     "Id": "650271ff-813d-4711-9d41-d62eeea9b99e",
@@ -533,6 +533,21 @@
     "StatusNote": "",
     "Assets": [ "e33d2cc0-6ff9-4807-bde5-f290b09cb840" ]
   },
+  {
+    "Id": "50d9d5ed-5069-4479-aebc-4f703020153c",
+    "Title": "Non-Conformance APP",
+    "Image": "images/playlists/PFI_PFI.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "2ead128b-c10a-4753-83a6-bb8be5393b9b",
+    "SubjectId": "",
+    "Source": "PFI",
+    "CatId": "b51f763a-9df1-4de7-939c-3ecd3ec8ff27",
+    "Description": "Starting app",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [ "08fce68e-92e2-43bc-ac61-d0f0d127399b" ]
+  },  
   {
     "Id": "d659af9e-76e1-47ec-8b44-2b56f4ca1fc6",
     "Title": "Procure Collator",
