@@ -1588,5 +1588,55 @@
     "Source": "PFI",
     "StatusTagId": "",
     "StatusNote": ""
-  }
+  },
+  {
+    "Id": "c63a0c4e0-338d-4a26-9f59-cd8694e5b80c",
+    "Title": "Sales Rates",
+    "Url": "https://pfigroupnetau.sharepoint.com/sites/Learning_Centre/SitePages/Sale.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "08fce68e-92e2-43bc-ac61-d0f0d127399b",
+    "Title": "Non Conformance APP",
+    "Url": "https://pfigroupnetau.sharepoint.com/sites/Learning_Centre/SitePages/No.aspx",
+    "TechnologyId": "2ead128b-c10a-4753-83a6-bb8be5393b9b",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "15496809-0ee5-4045-9072-ae7d1b7fe574",
+    "Title": "Packing Slips - Cheat Sheet",
+    "Url": "https://pfigroupnetau.sharepoint.com/sites/Learning_Centre/SitePages/Packing-Slips---Cheat-Sheet.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },  
+  {
+    "Id": "8cd83674-d3a8-4003-9483-60948f5c5aa8",
+    "Title": "Initialising Process Schedule Overall - Cheat sheet",
+    "Url": "https://pfigroupnetau.sharepoint.com/sites/Learning_Centre/SitePages/Initialising-a-Process-Schedule.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },    
+  {
+    "Id": "22f4607a-c0c2-462c-bdaf-72c2b49a9bc2",
+    "Title": "Shop Floor Collection - Cheat Sheet",
+    "Url": "https://pfigroupnetau.sharepoint.com/sites/Learning_Centre/SitePages/Shop.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  } 
  ]
