@@ -573,12 +573,11 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "b51f763a-9df1-4de7-939c-3ecd3ec8ff27",
-    "Description": "Starting app, zipping files for RFQs and POs, emailing error alerts if files missing",
+    "Description": "Starting app, zipping files for RFQs and POs, emailing error alerts if files missing, Procure Collator Drawing Packs",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "c6cc7f86-0302-4e80-b48b-ef8eb8cf7cbf" ]
+    "Assets": [ "c6cc7f86-0302-4e80-b48b-ef8eb8cf7cbf", "f1f838f7-36dc-4095-b45f-c1281d3c7c7e" ]
   },
-
   {
     "Id": "83dddb3a-7fac-429b-89d6-e637004930cb",
     "Title": "Folder Mate - Mandatory",
@@ -634,10 +633,10 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "1407ca23-8168-425f-9d9d-9903a60f3cfa",
-    "Description": "Contains logging in, installing the app, navigation, submitting timesheets, requesting leave, Entering my Timesheet in Ready, Requesting leave, Sleeping Away From Home Allowance(SAFHA)",
+    "Description": "Contains logging in, installing the app, navigation, submitting timesheets, requesting leave, Entering my Timesheet in Ready, Requesting leave, Sleeping Away From Home Allowance(SAFHA), Timesheet Entry with Ready",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "46c91330-7b61-419f-94fb-5b9a29fa6dca", "97c5063df84c441889321cba8d2f689b", "81ec408e-8684-45b8-961b-5292f0f9f3fe", "4d6506bc-2497-49fd-b825-d23bfd9c003c", "71040f6a-2f81-43a1-b837-df7afd23d132", "fdbe594f-5073-4839-bcfb-bb785fa72eff", "d08ae66f-8901-4ee9-a2cd-2081921b241d", "f985c1e2-e9b5-47e9-811e-139738b83228" ]
+    "Assets": [ "46c91330-7b61-419f-94fb-5b9a29fa6dca", "97c5063df84c441889321cba8d2f689b", "81ec408e-8684-45b8-961b-5292f0f9f3fe", "4d6506bc-2497-49fd-b825-d23bfd9c003c", "71040f6a-2f81-43a1-b837-df7afd23d132", "fdbe594f-5073-4839-bcfb-bb785fa72eff", "d08ae66f-8901-4ee9-a2cd-2081921b241d", "f985c1e2-e9b5-47e9-811e-139738b83228", "9229f366-e6e5-4265-8d05-e5ca270de175" ]
   },
   {
     "Id": "14519672-7755-43d7-b413-cabeab13ad7a",
