@@ -1758,5 +1758,155 @@
     "Source": "PFI",
     "StatusTagId": "",
     "StatusNote": ""
-  }   
+  },   
+  {
+    "Id": "2b8fcdf2-6b8f-460b-8a8a-6b5e497a5396",
+    "Title": "In house Orders",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/In-house-Orders.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  }, 
+  {
+    "Id": "bde9041e-a805-4c72-b51d-be452dde485e",
+    "Title": "BOM and PS Required Dates",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/BOM%20and%20PS%20Required%20Dates%20-%20Cheat%20Sheet.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  }, 
+  {
+    "Id": "83c89a7b-31ad-4e41-a432-3920daf1f0a4",
+    "Title": "Queue Responsibilities",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Queue%20Responsibilities.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },  
+  {
+    "Id": "cee1d118-d903-47e2-af7f-f520251c31e8",
+    "Title": "TETO Timesheets",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/TETO.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },   
+  {
+    "Id": "80aac847-2e8e-403e-9d46-3bd6a8115cdd",
+    "Title": "Timecards",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/time.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },   
+  {
+    "Id": "c7cf8d2e-f22c-47df-a0a6-03c055f0b7d6",
+    "Title": "Utilities",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Utilities.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },   
+  {
+    "Id": "8b208f18-42c5-4e4d-a883-8c2d5f6a6fa3",
+    "Title": "Pulling from Inventory",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Pulling-from-Inventory.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },   
+  {
+    "Id": "a3710170-4da0-407c-8188-303d3dc70ff4",
+    "Title": "Creating Packing Slips",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Creating-a-Packing-Slip.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },   
+  {
+    "Id": "2842ec04-5e0f-4306-b465-5231f9cc3627",
+    "Title": "Minimum order quantities",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Minimum-order-quantities.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },   
+  {
+    "Id": "b8230938-36db-4c9a-83c8-a99349e791f0",
+    "Title": "Replacing Part Number",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Replace-Part-Number.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },    
+  {
+    "Id": "62f60cde-8245-4c69-bc6b-10ee8f8f6b6c",
+    "Title": "Requisitioning Gas FORKLIFTS",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Requisitioning-Gas-FORKLIFTS.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },     
+  {
+    "Id": "6ec0de3c-efc3-4e8c-b387-43c8c0079ed9",
+    "Title": "Requisitioning Gas HEAVY FAB",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Requisitioning-Gas-HEAVY-FAB.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },   
+  {
+    "Id": "e9e16409-9680-44b2-881a-924cd027ce89",
+    "Title": "Requisitioning Gas STAINLESS FAB",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Requisitioning-Gas-STAINLESS-FAB.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },      
+  {
+    "Id": "ce8220cb-dbf0-4728-805d-91ab7517f6ef",
+    "Title": "Requisitioning Gas TITANIUM",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Requisitioning-Gas-TITANIUM.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  }, 
+  {
+    "Id": "7105adda-71f1-4b5e-b2e7-ecc8d5a7a37b",
+    "Title": "Work Orders",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Work-Orders.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  }  
    ]
