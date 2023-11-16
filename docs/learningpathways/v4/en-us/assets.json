@@ -1678,5 +1678,85 @@
     "Source": "PFI",
     "StatusTagId": "",
     "StatusNote": ""
-  }  
- ]
+  },
+  {
+    "Id": "acec23d7-9ffd-46aa-947a-13d0ccdd6594",
+    "Title": "Margins",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Minimum-order-quantities.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },  
+  {
+    "Id": "bb434e64-331d-43e9-895f-26ff46c77970",
+    "Title": "Payment Schedules",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Payments-Schedules.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  }, 
+  {
+    "Id": "848be730-17f5-4263-95c1-3014b9628a1a",
+    "Title": "Change to Hour Types",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Change-to-Hour-Types.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },    
+  {
+    "Id": "cc6a7778-9f6a-4bf8-898c-96725d7f8bf2",
+    "Title": "Required Dates for PMs - Cheat Sheet",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Required%20Dates%20for%20PMs%20-%20Cheat%20Sheet.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },    
+  {
+    "Id": "5759671a-de21-4655-823c-fbbe28d7a52a",
+    "Title": "Revised Dates on POs - Cheat Sheet",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Revised-Dates-on-POs.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },   
+  {
+    "Id": "329578f3-c7db-42d0-83ea-e995ded93561",
+    "Title": "Section Structure - Cheat Sheet",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Section-Structure.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  }, 
+  {
+    "Id": "7d6c647d-a7c4-493f-baf2-5d87a2d82b8a",
+    "Title": "PFI Standard Projects",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/PFI-Standard-Projects.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  }, 
+  {
+    "Id": "ddb7a92d-27bf-44e5-a5aa-a9652313d042",
+    "Title": "Revised Hour Typess",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Revised-Hour-Types.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  }   
+   ]
