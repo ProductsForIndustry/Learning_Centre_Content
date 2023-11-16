@@ -159,10 +159,10 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "6522050b-3091-40a6-94cc-b092aacdb7d5",
-    "Description": "Contains Accounts Receivable, Accounts Payable, WIP Setup and In House Orders, Importing AR and AP into Xero, Action for posting Time and Materil Charge Ups to an Invoice, Realeasing AR Queue, Accounting Queue, AR Terms Invoicing",
+    "Description": "Contains Accounts Receivable, Accounts Payable, WIP Setup and In House Orders, Importing AR and AP into Xero, Action for posting Time and Materil Charge Ups to an Invoice, Realeasing AR Queue, Accounting Queue, AR Terms Invoicing, In House Orders",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "2b99eef9-de0d-4d2c-b8ce-02b47de7ece2", "05762df2-67a1-4949-b9c0-3956278b5975", "8d2847ff-f17b-4934-9ca2-50c20dded5bc", "c67505be-d6a5-4d00-af5f-66f30b78a7e6", "1e17ac52-753b-4f69-8b45-72d630a94059", "36c3d571-a5aa-47a8-9f38-ee82f4856137", "46cd3702-9892-4f4b-b0e9-8e9be15aceab","3d2d6cb0-7d7a-49ec-b506-87bc7a24dbfb", "60acb279-57e0-449c-873e-e96b12a19ba9"]
+    "Assets": [ "2b99eef9-de0d-4d2c-b8ce-02b47de7ece2", "05762df2-67a1-4949-b9c0-3956278b5975", "8d2847ff-f17b-4934-9ca2-50c20dded5bc", "c67505be-d6a5-4d00-af5f-66f30b78a7e6", "1e17ac52-753b-4f69-8b45-72d630a94059", "36c3d571-a5aa-47a8-9f38-ee82f4856137", "46cd3702-9892-4f4b-b0e9-8e9be15aceab","3d2d6cb0-7d7a-49ec-b506-87bc7a24dbfb", "60acb279-57e0-449c-873e-e96b12a19ba9", "2b8fcdf2-6b8f-460b-8a8a-6b5e497a5396"]
   },
   {
     "Id": "70dc91ad-df3d-4827-8656-f55a242f5347",
