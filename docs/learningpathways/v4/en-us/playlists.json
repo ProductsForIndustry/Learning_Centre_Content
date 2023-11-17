@@ -371,7 +371,7 @@
   {
     "Id": "84e3b212-583c-4531-b182-5ff7b41ab5cc",
     "Title": "Printers",
-    "Image": "images/playlists/printer.png",
+    "Image": "images/playlists/PFI_ETO Essentials.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "762b0ee4-ec99-4253-bcf3-c8ee75177541",
@@ -383,6 +383,21 @@
     "StatusNote": "",
     "Assets": [ "a0b7c9ef-7b35-4455-965f-bd6833887a46" ]
   },
+  {
+    "Id": "e9d0d00f-1c39-4ffb-868f-d7fbebada992",
+    "Title": "Technology support",
+    "Image": "images/playlists/PFI_ETO Essentials.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "762b0ee4-ec99-4253-bcf3-c8ee75177541",
+    "SubjectId": "",
+    "Source": "PFI",
+    "CatId": "ad556205-2b00-498b-8dca-86aeb5ecf5d0",
+    "Description": "Booking a meeting room, IT Solution Centre, Task scheduler",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [ "e1941517-a538-4552-9099-5d021b629cff", "0fd3108f-df56-420f-bde1-448b45d8cd3b", "a6d1d5bf-7d88-41eb-8fc3-48e41bab9f8d" ]
+  },  
   {
     "Id": "56ec37b8-dace-4be7-9483-9e69c5a65c21",
     "Title": "Inventor Essentials",
