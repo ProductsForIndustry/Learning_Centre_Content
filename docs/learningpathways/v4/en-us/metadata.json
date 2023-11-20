@@ -21,6 +21,11 @@
       "Subjects": []
     },
     {
+      "Id": "0423438d-9c1a-4d75-8fc7-45b9d6c1fb99",
+      "Name": "Simpro",
+      "Subjects": []
+    },    
+    {
       "Id": "41754a1b-28af-4632-814f-4cb68631c57a",
       "Name": "PFI Reference Guides",
       "Subjects": []
@@ -97,6 +102,15 @@
           "Source": "PFI",
           "SubCategories": []
         },
+        {
+          "Id": "f293cd17-1728-451c-987d-2a123fc3aeb0",
+          "Name": "Simpro",
+          "Image": "images/categories/PFI_Simpro.png",
+          "TechnologyId": "0423438d-9c1a-4d75-8fc7-45b9d6c1fb99",
+          "SubjectId": "",
+          "Source": "PFI",
+          "SubCategories": []
+        },        
         {
           "Id": "15042749-51e0-4458-bda9-ac674e798c3b",
           "Name": "Autodesk Inventor",
