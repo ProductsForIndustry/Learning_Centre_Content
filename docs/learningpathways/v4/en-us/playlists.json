@@ -144,10 +144,10 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "6522050b-3091-40a6-94cc-b092aacdb7d5",
-    "Description": "Contains Shipping an Order, Receive PO, Receiving Logs, Import Inventory, Inventory, Packing Slips-Cheat sheet, Pulling from Inventory, Creating Packing Slips, Shippind Dockets",
+    "Description": "Contains Shipping an Order, Receive PO, Receiving Logs, Import Inventory, Inventory, Packing Slips-Cheat sheet, Pulling from Inventory, Creating Packing Slips, Shippind Dockets, Receiving Transitions, Receiving Process in Teto",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "f7b2952a-2307-49c7-993a-ed15d4a79435", "da711b8f-4b67-42b4-89cd-7324c9af7b00", "91e7a7e3-2970-4c04-81ed-5e23a9751427", "ea5ba1e8-e055-40bf-99f9-766109ad1070", "f69ee1ba-d26c-4e72-aa81-c90b4e82fec1","15496809-0ee5-4045-9072-ae7d1b7fe574", "8b208f18-42c5-4e4d-a883-8c2d5f6a6fa3", "a3710170-4da0-407c-8188-303d3dc70ff4","d322b271-cfa9-4af4-b9b6-15c9c5037f36"]
+    "Assets": [ "f7b2952a-2307-49c7-993a-ed15d4a79435", "da711b8f-4b67-42b4-89cd-7324c9af7b00", "91e7a7e3-2970-4c04-81ed-5e23a9751427", "ea5ba1e8-e055-40bf-99f9-766109ad1070", "f69ee1ba-d26c-4e72-aa81-c90b4e82fec1","15496809-0ee5-4045-9072-ae7d1b7fe574", "8b208f18-42c5-4e4d-a883-8c2d5f6a6fa3", "a3710170-4da0-407c-8188-303d3dc70ff4","d322b271-cfa9-4af4-b9b6-15c9c5037f36", "d7c53650-0b84-414e-a03a-3de5ea9c8ca1", "dfe921dd-6899-4c40-ac7b-ebd0a1afac29"]
   },
   {
     "Id": "650271ff-813d-4711-9d41-d62eeea9b99e",
@@ -453,10 +453,10 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "15042749-51e0-4458-bda9-ac674e798c3b",
-    "Description": "PFIs Drawing Utility Inventor Addin",
+    "Description": "PFIs Drawing Utility Inventor Addin, Inventor 2024 Customisation settings, Inventor drawing example, Drawing Notes",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "7ca1991d-ac6e-46a7-aa14-49a0da726d9b" ]
+    "Assets": [ "7ca1991d-ac6e-46a7-aa14-49a0da726d9b", "f7806883-ad1c-445f-a484-63970d92772c", "e6cc2e9c-220d-4d33-849c-12ff0c233e9a", "54125e61-db03-408c-a596-9bf831a2603b"]
   },
   {
     "Id": "a56db1df-2b98-48de-93a5-0e4fa940fb70",
@@ -805,9 +805,9 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "3903bf28-4c3d-4042-a1cf-af355c0e2ba5",
-    "Description": "",
+    "Description": "Shaft Design Guide For Hollow Shaft Gearmotors, Sheet Metal design guide, Machining designs guide",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": ["74c76353-ab91-4048-a6ec-213078493211", "a4c5bd95-7ad5-4c95-91e1-c10fb51f5842", "b4bb01b6-69bb-48df-bfa8-a21cf8a71697", "0861f8fd-7a3b-46d9-a694-151d8d1148c1" ]
+    "Assets": ["74c76353-ab91-4048-a6ec-213078493211", "a4c5bd95-7ad5-4c95-91e1-c10fb51f5842", "b4bb01b6-69bb-48df-bfa8-a21cf8a71697", "0861f8fd-7a3b-46d9-a694-151d8d1148c1", "534a2f9e-b25d-4745-a40a-d430dcdd1996", "525aeeb3-7160-431c-bdc3-e2a45ab29ef3", "81d58862-d0a5-4a37-87cd-8cf46690c73c"]
   }
 ]
