@@ -1461,7 +1461,7 @@
   },  
   {
     "Id": "74c76353-ab91-4048-a6ec-213078493211",
-    "Title": "Engineering Drawing Standards Manual 2022",
+    "Title": "Engineering Drawing Standards Manual",
     "Url": "https://pfigroupnetau.sharepoint.com/sites/Learning_Centre/SitePages/Engineering-Drawing-Standards-Manual.aspx",
     "TechnologyId": "99f13050-4043-4396-bab7-4eaae571624c",
     "SubjectId": "",
@@ -1968,5 +1968,85 @@
     "Source": "PFI",
     "StatusTagId": "",
     "StatusNote": ""
-  }  
+  },
+  {
+    "Id": "d7c53650-0b84-414e-a03a-3de5ea9c8ca1",
+    "Title": "Receiving Transitions",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Receiving-Transitions.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },  
+  {
+    "Id": "dfe921dd-6899-4c40-ac7b-ebd0a1afac29",
+    "Title": "Receiving Process in TETO",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Receiving-process-in-TETO.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  }, 
+  {
+    "Id": "534a2f9e-b25d-4745-a40a-d430dcdd1996",
+    "Title": "Shaft Design Guide For Hollow Shaft Gearmotors",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Shaft-Design-Guide-For-Hollow-Shaft-Gearmotors.aspx",
+    "TechnologyId": "99f13050-4043-4396-bab7-4eaae571624c",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "f7806883-ad1c-445f-a484-63970d92772c",
+    "Title": "Inventor 2024 Customisation settings",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Inventor-2024-Customization-settings.aspx",
+    "TechnologyId": "1d64310f-5a64-4043-bcd3-a900b3b81c1b",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },  
+  {
+    "Id": "525aeeb3-7160-431c-bdc3-e2a45ab29ef3",
+    "Title": "Sheet Metal design guide",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Sheet-Metal-design-guide.aspx",
+    "TechnologyId": "99f13050-4043-4396-bab7-4eaae571624c",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  }, 
+  {
+    "Id": "81d58862-d0a5-4a37-87cd-8cf46690c73c",
+    "Title": "Machining designs guide",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Machining-design-guide.aspx",
+    "TechnologyId": "99f13050-4043-4396-bab7-4eaae571624c",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },  
+  {
+    "Id": "e6cc2e9c-220d-4d33-849c-12ff0c233e9a",
+    "Title": "Inventor drawing example",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Inventor-drawing-template.aspx",
+    "TechnologyId": "1d64310f-5a64-4043-bcd3-a900b3b81c1b",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },   
+  {
+    "Id": "54125e61-db03-408c-a596-9bf831a2603b",
+    "Title": "Drawing Notes",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Dw.aspx",
+    "TechnologyId": "1d64310f-5a64-4043-bcd3-a900b3b81c1b",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  }     
    ]
