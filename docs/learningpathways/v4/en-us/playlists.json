@@ -820,7 +820,7 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "b51f763a-9df1-4de7-939c-3ecd3ec8ff27",
-    "Description": "Starting app, uploading ETO related documents, viewing imported documents",
+    "Description": "Starting app",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [ "e692bc64-22a9-427c-ac6d-4747d358180c"]
