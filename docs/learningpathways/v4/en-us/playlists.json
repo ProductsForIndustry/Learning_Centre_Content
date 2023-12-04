@@ -809,5 +809,20 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": ["74c76353-ab91-4048-a6ec-213078493211", "a4c5bd95-7ad5-4c95-91e1-c10fb51f5842", "b4bb01b6-69bb-48df-bfa8-a21cf8a71697", "0861f8fd-7a3b-46d9-a694-151d8d1148c1", "534a2f9e-b25d-4745-a40a-d430dcdd1996", "525aeeb3-7160-431c-bdc3-e2a45ab29ef3", "81d58862-d0a5-4a37-87cd-8cf46690c73c"]
-  }
+  },
+  {
+    "Id": "e5f6d61c-bc7f-4327-b115-0a2b127431a9",
+    "Title": "PFI Scheduler",
+    "Image": "images/playlists/PFI_PFI.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "2ead128b-c10a-4753-83a6-bb8be5393b9b",
+    "SubjectId": "",
+    "Source": "PFI",
+    "CatId": "b51f763a-9df1-4de7-939c-3ecd3ec8ff27",
+    "Description": "Starting app, uploading ETO related documents, viewing imported documents",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [ "e692bc64-22a9-427c-ac6d-4747d358180c"]
+  }  
 ]
