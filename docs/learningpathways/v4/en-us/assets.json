@@ -2058,5 +2058,35 @@
     "Source": "PFI",
     "StatusTagId": "",
     "StatusNote": ""
-  }    
+  },
+  {
+    "Id": "f8b3d01d-8d1e-4968-b0f1-17ec0567a94c",
+    "Title": "Packing and Shipping List",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Packing-and-Shipping-List.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "6d71fa03-f1c5-4ac0-aa48-85a1dbbd5fb4",
+    "Title": "Labour Sell Rates",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Labour-Sell-Rates.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "df83ee81-2a22-4cb2-987e-c6dd6e1a7aae",
+    "Title": "Locating Items",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Locating.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  }     
    ]
