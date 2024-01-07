@@ -854,5 +854,20 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": ["4caa9080-94bf-4f6b-b5b7-c2bd2f096687"]
-  } 
+  },
+  {
+    "Id": "b9c22fb8-d7e3-4477-a412-0c3ef6e96c04",
+    "Title": "Shop Floor Manager APP",
+    "Image": "images/playlists/PFI_PFI.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "2ead128b-c10a-4753-83a6-bb8be5393b9b",
+    "SubjectId": "",
+    "Source": "PFI",
+    "CatId": "b51f763a-9df1-4de7-939c-3ecd3ec8ff27",
+    "Description": "Starting app",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": ["82489f26-2b7e-49f8-adb7-c92975272876"]
+  }   
 ]
