@@ -865,9 +865,9 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "b51f763a-9df1-4de7-939c-3ecd3ec8ff27",
-    "Description": "Starting app",
+    "Description": "Starting app, Scanner Setup",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": ["82489f26-2b7e-49f8-adb7-c92975272876"]
+    "Assets": ["82489f26-2b7e-49f8-adb7-c92975272876", "5ad9880b-f446-474b-b50a-46b1c4145d6e"]
   }   
 ]
