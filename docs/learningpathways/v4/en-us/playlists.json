@@ -790,10 +790,10 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "f293cd17-1728-451c-987d-2a123fc3aeb0",
-    "Description": "",
+    "Description": "SimPRO - Getting started",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": []
+    "Assets": ["17cacfce-d7cf-426e-b962-234e6384ca40"]
   },  
   {
     "Id": "ca3d3ff3-c0a4-486e-974e-accc60999278",
