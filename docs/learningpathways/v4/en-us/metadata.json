@@ -187,33 +187,6 @@
       "Source": "PFI",
       "SubCategories": [
         {
-          "Id": "788cb2f9-b703-40e7-bfe9-b9156c357450",
-          "Name": "ETO - Mandatory",
-          "Image": "images/categories/PFI_ETO.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "PFI",
-          "SubCategories": []
-        },
-        {
-          "Id": "befdeb60-ba28-4404-8214-2dae388c931e",
-          "Name": "Ready - Mandatory",
-          "Image": "images/categories/PFI_Ready.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "PFI",
-          "SubCategories": []
-        },
-        {
-          "Id": "ef0b8810-3964-4397-9fde-fc4265a45a2d",
-          "Name": "PFI Applications - Mandatory",
-          "Image": "images/categories/PFI_PFI.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "PFI",
-          "SubCategories": []
-        },
-        {
           "Id": "4f243c36-03ae-4fe2-8738-69a156cb1489",
           "Name": "Timesheet Rollout",
           "Image": "images/categories/PFI_Timesheet Importer.png",
