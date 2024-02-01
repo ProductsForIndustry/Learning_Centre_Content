@@ -61,6 +61,11 @@
       "Subjects": []
     },
     {
+      "Id": "0c91106a-93a7-4fd8-b871-5817d3d48b05",
+      "Name": "Logistics Standards",
+      "Subjects": []
+    },    
+    {
       "Id": "99f13050-4043-4396-bab7-4eaae571624c",
       "Name": "Engineering Standards",
       "Subjects": []
@@ -79,7 +84,7 @@
           "Id": "4f243c36-03ae-4fe2-8738-69a156cb1489",
           "Name": "Logistics Standards",
           "Image": "images/categories/Logistics_PFI.png",
-          "TechnologyId": "",
+          "TechnologyId": "0c91106a-93a7-4fd8-b871-5817d3d48b05",
           "SubjectId": "",
           "Source": "PFI",
           "SubCategories": []
