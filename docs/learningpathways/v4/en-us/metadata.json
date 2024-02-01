@@ -68,6 +68,34 @@
   ],
   "Categories": [
     {
+      "Id": "779d01ed-bd18-4b07-bbb3-aefdcd7d2320",
+      "Name": "PFI Reference Guides",
+      "Image": "images/categories/first_days.png",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "PFI",
+      "SubCategories": [
+        {
+          "Id": "4f243c36-03ae-4fe2-8738-69a156cb1489",
+          "Name": "Logistics Standards",
+          "Image": "images/categories/Logistics_PFI.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "PFI",
+          "SubCategories": []
+        },
+        {
+          "Id": "3903bf28-4c3d-4042-a1cf-af355c0e2ba5",
+          "Name": "Engineering Standards ",
+          "Image": "images/categories/Engineering_PFI.png",
+          "TechnologyId": "99f13050-4043-4396-bab7-4eaae571624c",
+          "SubjectId": "",
+          "Source": "PFI",
+          "SubCategories": []
+        }     
+      ]
+    },    
+    {
       "Id": "3f2de106-bd7e-4fa0-b9ec-d2d301c60815",
       "Name": "Applications",
       "Image": "images/categories/set-up-Microsoft-365-learning-pathway.png",
@@ -142,7 +170,7 @@
     },
     {
       "Id": "1137d94b-2ffe-4fe5-8d9d-7ab313afe06c",
-      "Name": "PFI Reference Guides",
+      "Name": "IT Solution Centre",
       "Image": "images/categories/PFI_PFI.png",
       "TechnologyId": "41754a1b-28af-4632-814f-4cb68631c57a",
       "SubjectId": "",
@@ -165,45 +193,7 @@
           "SubjectId": "",
           "Source": "PFI",
           "SubCategories": []
-        },
-        {
-          "Id": "3903bf28-4c3d-4042-a1cf-af355c0e2ba5",
-          "Name": "Engineering Standards ",
-          "Image": "images/categories/PFI_PFI.png",
-          "TechnologyId": "99f13050-4043-4396-bab7-4eaae571624c",
-          "SubjectId": "",
-          "Source": "PFI",
-          "SubCategories": []
-        }
-      
-      ]
-    },
-    {
-      "Id": "779d01ed-bd18-4b07-bbb3-aefdcd7d2320",
-      "Name": "Rollout",
-      "Image": "images/categories/first_days.png",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "PFI",
-      "SubCategories": [
-        {
-          "Id": "4f243c36-03ae-4fe2-8738-69a156cb1489",
-          "Name": "Timesheet Rollout",
-          "Image": "images/categories/PFI_Timesheet Importer.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "PFI",
-          "SubCategories": []
-        },
-        {
-          "Id": "66be94c0-8e4f-490c-a0e8-f6dc66346303",
-          "Name": "Announcements",
-          "Image": "images/categories/Logo_Announcements.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "PFI",
-          "SubCategories": []
-        }      
+        },      
       ]
     }
   ],
