@@ -405,36 +405,6 @@
     "Assets": [ "068cf9c2448743ba8c1a37d9a66265b5", "d4e1ac06-ab9b-45a4-a1a7-f1e4228cc20b", "d4e1ac06-ab9b-45a4-a1a7-f1e4228cc20b", "2c7d1611-7345-476a-863c-21ce5544139a" ]
   },
   {
-    "Id": "483660d8-9023-4ae9-8fed-c7daba677a5c",
-    "Title": "Stage A",
-    "Image": "images/playlists/PFI_Timesheet Importer.png",
-    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-    "AudienceId": "e8689e3b-eeec-4c14-bd9f-29b9f8fb9eb9",
-    "TechnologyId": "835a610b-2be8-4b35-a2da-17bbd662a7e2",
-    "SubjectId": "",
-    "Source": "PFI",
-    "CatId": "4f243c36-03ae-4fe2-8738-69a156cb1489",
-    "Description": "Time sheet procedures of Roll out Stage A",
-    "StatusTagId": "",
-    "StatusNote": "",
-    "Assets": [ "627ffbbc-45e8-4534-8b47-bb0528235f42", "e08f9391-3cdc-4a0e-a063-4cd7825c995d", "5471378d-d230-4968-8e6e-5b91042d65f5" ]
-  },
-  {
-    "Id": "ae70ab95-19d9-462b-97ab-628f8af8062e",
-    "Title": "Stage B",
-    "Image": "images/playlists/PFI_Timesheet Importer.png",
-    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-    "AudienceId": "e8689e3b-eeec-4c14-bd9f-29b9f8fb9eb9",
-    "TechnologyId": "835a610b-2be8-4b35-a2da-17bbd662a7e2",
-    "SubjectId": "",
-    "Source": "PFI",
-    "CatId": "4f243c36-03ae-4fe2-8738-69a156cb1489",
-    "Description": "Time sheet procedures of Roll out Stage B",
-    "StatusTagId": "",
-    "StatusNote": "",
-    "Assets": [ "14209b84-78b9-4b2c-866d-290e64004ba2" ]
-  },
-  {
     "Id": "6c3149d5-b71b-4736-bd77-1a2b4050f8d3",
     "Title": "Vault Essentials",
     "Image": "images/playlists/PFI_Vault.png",
@@ -452,8 +422,7 @@
       "f547c9b4-76eb-4342-b760-feebbe350102",
       "7cf36ea3-0a89-4fa7-8294-8b1a7a07a711",
       "08c743a0-980d-430e-bae7-d59262071695",
-      "691c5808-cb9b-4789-93e5-9b0fe17b98a8"
-    ]
+      "691c5808-cb9b-4789-93e5-9b0fe17b98a8"  ]
   },
   {
     "Id": "791d725f-9d15-413e-8b4c-cbb6e25cb38f",
