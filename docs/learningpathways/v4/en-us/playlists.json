@@ -585,10 +585,10 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "4f243c36-03ae-4fe2-8738-69a156cb1489",
-    "Description": "",
+    "Description": "Receiving Procedure, Receiving Process in TETO",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [""]
+    "Assets": ["728489ad-1b45-4f4f-80ca-9a6fb61f4468", "dfe921dd-6899-4c40-ac7b-ebd0a1afac29"]
   },
   {
     "Id": "1bb6498b-870e-4894-9271-f41854e54fba",
