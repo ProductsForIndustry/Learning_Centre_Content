@@ -650,5 +650,20 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [""]
-  }    
+  },    
+  {
+    "Id": "1e306921-1b95-4b9d-83d5-0e02135f532c",
+    "Title": "Asset Inventory Control",
+    "Image": "images/playlists/Asset_Inventory.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "0c91106a-93a7-4fd8-b871-5817d3d48b05",
+    "SubjectId": "",
+    "Source": "PFI",
+    "CatId": "4f243c36-03ae-4fe2-8738-69a156cb1489",
+    "Description": "",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [""]
+  }      
 ]
