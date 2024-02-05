@@ -2218,5 +2218,25 @@
     "Source": "PFI",
     "StatusTagId": "",
     "StatusNote": ""
+  },
+  {
+    "Id": "e82330ea-1276-40ae-a71a-cbc4d7ebbe47",
+    "Title": "Receiving Delivery Docket",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Receiving-Delivery-Dockets.aspx",
+    "TechnologyId": "0c91106a-93a7-4fd8-b871-5817d3d48b05",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "5c9d4de7-c699-429d-b584-6a188e43b7d9",
+    "Title": "Guideline to Email Etiquette",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Guideline-to-Email-Etiquette.aspx",
+    "TechnologyId": "0c91106a-93a7-4fd8-b871-5817d3d48b05",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
   }  
    ]
