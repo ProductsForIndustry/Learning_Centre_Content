@@ -570,10 +570,10 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "4f243c36-03ae-4fe2-8738-69a156cb1489",
-    "Description": "",
+    "Description": "Guideline to Email Etiquette",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [""]
+    "Assets": ["5c9d4de7-c699-429d-b584-6a188e43b7d9"]
   },
   {
     "Id": "461029bd-f1a2-4cfa-ba93-dfe442b2e171",
@@ -585,10 +585,11 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "4f243c36-03ae-4fe2-8738-69a156cb1489",
-    "Description": "Receiving Procedure, Receiving Process in TETO",
+    "Description": "Receiving Procedure, Receiving Process in TETO, Receiving Transitions , Receiving Delivery Docket, Taking items from the Cage, Taking unreceived items",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": ["728489ad-1b45-4f4f-80ca-9a6fb61f4468", "dfe921dd-6899-4c40-ac7b-ebd0a1afac29"]
+    "Assets": ["728489ad-1b45-4f4f-80ca-9a6fb61f4468", "dfe921dd-6899-4c40-ac7b-ebd0a1afac29","d7c53650-0b84-414e-a03a-3de5ea9c8ca1","e82330ea-1276-40ae-a71a-cbc4d7ebbe47", 
+               "79f9b838-4bf2-4aa6-b8a7-c0f6aa11a436", "15c933be-8f01-4da4-8483-a0925d2bcbb6"]
   },
   {
     "Id": "1bb6498b-870e-4894-9271-f41854e54fba",
