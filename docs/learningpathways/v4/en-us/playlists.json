@@ -24,10 +24,10 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "82ff654d-7da4-4a2f-b56e-8f8aa765b27b",
-    "Description": "Creating a project, Selling a project, Running a project, Action for creating a Charge up Project, Action for posting Time and material Charge ups to an invoice",
+    "Description": "Creating a project, Selling a project, Running a project, Requisition items",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": ["c21f198a-6819-48c8-a30c-76ccc6cb6496"]  
+    "Assets": ["c21f198a-6819-48c8-a30c-76ccc6cb6496","414d3b93-62d0-4cdb-8078-c0e528b71588","641b0465-ec3f-4432-ad0c-01dab7cb2c20", "e2c0fca3-1fa2-45db-bad7-7a85da4a0597"]  
   },   
   {
     "Id": "b7ce5d2c-562a-4750-9217-fe85fe923b69",
