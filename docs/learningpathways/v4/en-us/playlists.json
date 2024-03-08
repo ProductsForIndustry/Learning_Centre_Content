@@ -39,10 +39,10 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "82ff654d-7da4-4a2f-b56e-8f8aa765b27b",
-    "Description": "Reports",
+    "Description": "Reports, Internal Project Rerports, External Project Reports",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [""]  
+    "Assets": ["27b50e77-e877-44bd-b0da-dc8b3b3d45bd", "81aa2044-abfd-46f3-91c4-35a82875208a", "552ef2d7-c5e2-45a4-932a-e9fa7694dd7c"]  
   },      
   {
     "Id": "fd5df139-0ce8-4121-a3b9-6265de71b81b",
