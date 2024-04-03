@@ -114,7 +114,10 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "6522050b-3091-40a6-94cc-b092aacdb7d5",
-    "Description": "Contains Requesting items for POs, Searching for an RFQ, Creating an RFQ, Actions, Searching for an RFQ,  Requisition Items for a Project or Inventory, Item History, Procurement Breakdown, Preferred Supplier List Creating a Purchase Order, Update External Item numbers on POs and RFQs, Import Price Lists, Importing Order Acknowledgements and RFQs, Requisition items for Inventory, Preferred Supplier List, Minimum order quantities, Replacing Part Number, Requisitioning Gas FORKLIFTS, Requisitioning Gas HEAVY FAB, Requisitioning Gas STAINLESS FAB, Requisitioning Gas TITANIUM, Work Orders, TETO - International Currencies, Cheat sheet - Stock transfers",
+    "Description": "Contains Requesting items for POs, Searching for an RFQ, Creating an RFQ, Actions, Searching for an RFQ,  Requisition Items for a Project or Inventory, Item History, 
+                    Procurement Breakdown, Preferred Supplier List Creating a Purchase Order, Update External Item numbers on POs and RFQs, Import Price Lists, Importing Order Acknowledgements and RFQs,
+                    Requisition items for Inventory, Preferred Supplier List, Minimum order quantities, Replacing Part Number, Requisitioning Gas FORKLIFTS, Requisitioning Gas HEAVY FAB, Requisitioning Gas STAINLESS FAB, 
+                    Requisitioning Gas TITANIUM, Work Orders, TETO - International Currencies, Cheat sheet - Stock transfers, Replace an item",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": ["a674de5d-fd6b-4856-a168-927bb81b2d8b", "a9dc6f6d-0dd2-4fea-9cd5-4b88f3e16f36", "b55f4972-defb-4697-a3bc-19ab1acd1017", "9c8d8a64-d29f-4b35-a37f-e07a5e3950a9", 
@@ -122,7 +125,7 @@
                "f084b1b4-67a1-4b94-a237-d8d068a89085", "3eb50125-1872-431e-afb6-d42ccf65f94f", "ab2e3ece-2f35-4e61-8266-fb7b6f223f5e", "c61b3a2c-63d3-4b83-bc25-ec33f2ec8afb", 
                "22575534-b365-46b6-90c3-b0beb05c9060", "2842ec04-5e0f-4306-b465-5231f9cc3627", "b8230938-36db-4c9a-83c8-a99349e791f0", "62f60cde-8245-4c69-bc6b-10ee8f8f6b6c",
                "6ec0de3c-efc3-4e8c-b387-43c8c0079ed9", "e9e16409-9680-44b2-881a-924cd027ce89", "ce8220cb-dbf0-4728-805d-91ab7517f6ef", "7105adda-71f1-4b5e-b2e7-ecc8d5a7a37b", 
-               "5fa64f53-f985-42a3-a682-e513f8fedf89", "99c1b91e-baab-4293-9712-31838b8fe575"] 
+               "5fa64f53-f985-42a3-a682-e513f8fedf89", "99c1b91e-baab-4293-9712-31838b8fe575", "d3707f14-47ce-4a93-8377-7acfa6c00314"] 
   },
   {
     "Id": "d92ee190-4a2a-469c-8f40-813acf23bf3b",
@@ -149,13 +152,13 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "6522050b-3091-40a6-94cc-b092aacdb7d5",
-    "Description": "Contains Shipping an Order, Receive PO, Receiving Logs, Import Inventory, Inventory, Packing Slips-Cheat sheet, Convert PO into Packing Slip, Pulling from Inventory, Creating Packing Slips, Shippind Dockets, Receiving Transitions, Receiving Process in Teto, Packing and Shipping List, Shipping Dockets explained, Taking items from the Cage, Taking uncereived items, Miscellaneous shipping item, Replace an item ",
+    "Description": "Contains Shipping an Order, Receive PO, Receiving Logs, Import Inventory, Inventory, Packing Slips-Cheat sheet, Convert PO into Packing Slip, Pulling from Inventory, Creating Packing Slips, Shippind Dockets, Receiving Transitions, Receiving Process in Teto, Packing and Shipping List, Shipping Dockets explained, Taking items from the Cage, Taking uncereived items, Miscellaneous shipping item",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [ "f7b2952a-2307-49c7-993a-ed15d4a79435", "da711b8f-4b67-42b4-89cd-7324c9af7b00", "91e7a7e3-2970-4c04-81ed-5e23a9751427", "ea5ba1e8-e055-40bf-99f9-766109ad1070", "f69ee1ba-d26c-4e72-aa81-c90b4e82fec1","32851b65-807c-40fc-853e-8f6a37351d7b",
                 "15496809-0ee5-4045-9072-ae7d1b7fe574", "8b208f18-42c5-4e4d-a883-8c2d5f6a6fa3", "a3710170-4da0-407c-8188-303d3dc70ff4","d322b271-cfa9-4af4-b9b6-15c9c5037f36", "d7c53650-0b84-414e-a03a-3de5ea9c8ca1",
                 "dfe921dd-6899-4c40-ac7b-ebd0a1afac29","f8b3d01d-8d1e-4968-b0f1-17ec0567a94c", "edfa2c9a-f2fb-4919-8ea2-a69e5a633c54", "79f9b838-4bf2-4aa6-b8a7-c0f6aa11a436", "15c933be-8f01-4da4-8483-a0925d2bcbb6",
-                "bd973097-2784-4dcc-b659-b2d83f836cc7", "d3707f14-47ce-4a93-8377-7acfa6c00314"]
+                "bd973097-2784-4dcc-b659-b2d83f836cc7"]
   },
   {
     "Id": "650271ff-813d-4711-9d41-d62eeea9b99e",
