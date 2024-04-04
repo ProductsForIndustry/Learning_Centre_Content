@@ -114,7 +114,7 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "6522050b-3091-40a6-94cc-b092aacdb7d5",
-    "Description": "",
+    "Description": "Contains Requesting items for POs, Searching for an RFQ, Creating an RFQ, Actions, Searching for an RFQ, Requisition Items for a Project or Inventory, Item History, Procurement Breakdown, Preferred Supplier List Creating a Purchase Order, Update External Item numbers on POs and RFQs, Import Price Lists, Importing Order Acknowledgements and RFQs, Requisition items for Inventory, Preferred Supplier List, Minimum order quantities, Replacing Part Number, Requisitioning Gas FORKLIFTS, Requisitioning Gas HEAVY FAB, Requisitioning Gas STAINLESS FAB, Requisitioning Gas TITANIUM, Work Orders, TETO - International Currencies, Cheat sheet - Stock transfers, Replace an item",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": ["a674de5d-fd6b-4856-a168-927bb81b2d8b", "a9dc6f6d-0dd2-4fea-9cd5-4b88f3e16f36", "b55f4972-defb-4697-a3bc-19ab1acd1017", "9c8d8a64-d29f-4b35-a37f-e07a5e3950a9", 
