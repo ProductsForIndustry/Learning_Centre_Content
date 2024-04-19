@@ -2328,5 +2328,15 @@
     "Source": "PFI",
     "StatusTagId": "",
     "StatusNote": ""
-  }
+  },
+  {
+    "Id": "6d66a166-b899-4526-aa0c-686189273547",
+    "Title": "Reserving and Pulling a part from inventory",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Requisition-Items-for-a-Project-or-Inventory.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  }  
    ]
