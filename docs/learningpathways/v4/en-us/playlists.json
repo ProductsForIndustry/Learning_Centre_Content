@@ -733,7 +733,6 @@
     "Description": "Parts order, Action for Parts order, Project and Part Quotes, Releasing Project Quotes, Requisition Items, Reserving and Pulling a part from inventory, Packing Slips",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": ["574e5347-8631-4666-9a59-5374556cafd1", "fb64461e-8221-44b6-ad59-6a904141ec09", "73d66a17-a78b-4d40-a7d8-a3678cac5f5e", "3fa0a1e0-2285-42d5-96ef-4c763f791fb9",
-               "e2c0fca3-1fa2-45db-bad7-7a85da4a0597", "6d66a166-b899-4526-aa0c-686189273547", "15496809-0ee5-4045-9072-ae7d1b7fe574"]  
+    "Assets": ["574e5347-8631-4666-9a59-5374556cafd1", "fb64461e-8221-44b6-ad59-6a904141ec09", "73d66a17-a78b-4d40-a7d8-a3678cac5f5e", "3fa0a1e0-2285-42d5-96ef-4c763f791fb9", "e2c0fca3-1fa2-45db-bad7-7a85da4a0597", "6d66a166-b899-4526-aa0c-686189273547", "15496809-0ee5-4045-9072-ae7d1b7fe574"]  
   }    
 ]
