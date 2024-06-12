@@ -2311,8 +2311,8 @@
   },    
   {
     "Id": "552ef2d7-c5e2-45a4-932a-e9fa7694dd7c",
-    "Title": "External Project Reports",
-    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/External-Project-Reports.aspx",
+    "Title": "PFI Sales Terms Quote and PO Request report",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/PFI%20Sales%20Terms%20Quote%20and%20PO%20Request%20report.aspx",
     "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
     "SubjectId": "",
     "Source": "PFI",
@@ -2333,6 +2333,56 @@
     "Id": "6d66a166-b899-4526-aa0c-686189273547",
     "Title": "Reserving and Pulling a part from inventory",
     "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Reserving-and-pulling-a-part-from-inventory.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  }, 
+  {
+    "Id": "0ad40ae3-603e-49ab-a152-1416837df5e6",
+    "Title": "Department Utilisation Summary Report",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Department-Utilisation-Summary-Report.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },  
+  {
+    "Id": "f512406f-d1d1-461d-9ec9-b0ae9253d509",
+    "Title": "Project Labour - By Hour Type Report",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Project-Labour---By-Hour-Type-Report.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "f79b0d50-4f6f-4373-a902-5ed43e91bba8",
+    "Title": "Department Utilisation by Employee",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Department-Utilisation-by-Employee.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },  
+  {
+    "Id": "3116f39f-1a6d-481a-bd16-90de450a4d0b",
+    "Title": "Department Hour Type Usage Report",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Department-Hour-Type-Usage-Report.aspx",
+    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
+    "SubjectId": "",
+    "Source": "PFI",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },   
+  {
+    "Id": "7f71fb80-0ebd-475f-be8f-da6678ceba1f",
+    "Title": "Schedule Rates Report",
+    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Schedule-Rates-Report.aspx",
     "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
     "SubjectId": "",
     "Source": "PFI",
