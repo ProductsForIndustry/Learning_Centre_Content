@@ -615,6 +615,21 @@
     "Assets": ["66314ac2-1334-42a3-ad84-496a022169af"]
   },
   {
+    "Id": "b7290726-aa60-43da-8835-493296de5ab9",
+    "Title": "Ship It APP",
+    "Image": "images/playlists/PFI_PFI.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "2ead128b-c10a-4753-83a6-bb8be5393b9b",
+    "SubjectId": "",
+    "Source": "PFI",
+    "CatId": "b51f763a-9df1-4de7-939c-3ecd3ec8ff27",
+    "Description": "Using the app",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": ["bc6922a6-8a55-4cb1-94d7-1f3e68cf7376"]
+  },
+  {
     "Id": "d549c49b-7e47-4c42-aa1f-02dceaa0b9c1",
     "Title": "General",
     "Image": "images/playlists/General.png",
