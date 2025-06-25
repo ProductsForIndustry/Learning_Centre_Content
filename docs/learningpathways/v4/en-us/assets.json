@@ -1050,16 +1050,6 @@
     "StatusNote": ""
   },
   {
-    "Id": "da711b8f-4b67-42b4-89cd-7324c9af7b00",
-    "Title": "Receive PO",
-    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Receiving-PO.aspx",
-    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
-    "SubjectId": "",
-    "Source": "PFI",
-    "StatusTagId": "",
-    "StatusNote": ""
-  },
-  {
     "Id": "ea5ba1e8-e055-40bf-99f9-766109ad1070",
     "Title": "Receiving Logs",
     "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Receiving-Logs.aspx",
