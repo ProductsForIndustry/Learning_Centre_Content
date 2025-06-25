@@ -10,16 +10,6 @@
     "StatusNote": ""
   },
   {
-    "Id": "2b99eef9-de0d-4d2c-b8ce-02b47de7ece2",
-    "Title": "Accounts Payable",
-    "Url": "https://pfigroupnetau.sharepoint.com/:u:/r/sites/Learning_Centre/SitePages/Accounts-Payable.aspx",
-    "TechnologyId": "0E40143C-BD50-4F5A-8943-28C528467518",
-    "SubjectId": "",
-    "Source": "PFI",
-    "StatusTagId": "",
-    "StatusNote": ""
-  },
- {
     "Id": "1e17ac52-753b-4f69-8b45-72d630a94059",
     "Title": "Move Supplier Invoice to another AP Batch",
     "Url": "https://pfigroupnetau.sharepoint.com/sites/Learning_Centre/SitePages/Move-Supplier-Invoice-to-another-AP-Batch.aspx",
