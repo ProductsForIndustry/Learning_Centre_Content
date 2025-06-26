@@ -12,7 +12,11 @@
     "Description": "Contains ETO Essentials, Logging into ETO, Navigating Grids, Searching for a Company, Searching for a Project, Searching for a Purchase Order, Reports, Quick Access Toolbar (QAT), Common Dialog Box Tabs, Notifications, Imports, Non Conformance - Cheat Sheet, Non Conformances, Events Log, Item History, Where Does it Live?, Project Queues, Queue Responsibilities, TETO Timesheeets, Timecards, Utilities",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": ["234ecfda-01c7-4eff-8e30-996bf4c3e0c8", "f7ea83e6-efc4-483a-b598-e40625e45aff", "7bbbf84d-35fb-4438-a91e-a9ca121a32d6", "8a40f77e-adbe-466e-8b4c-1f56d114e315", "c0a9e40c-de6c-4af2-9b6e-6ceadf6380b2", "27b50e77-e877-44bd-b0da-dc8b3b3d45bd", "e2f715ff-279a-48b9-8fb3-3a720c2573f4", "477f294e-13f0-4287-b731-e498f7ce2f58", "41ce0c1dc3224da9986625717165aa62", "7120f67d-6f1f-44f3-b5b4-493cc4a94bd8", "11d35eee-4769-4769-9f75-60e66499230e", "cf1b3ead-6bfc-4a73-bf8e-a0025a83e3ba", "2ca2125d-c8e6-4461-b112-d195861063f2", "2c1addf9-ca22-4ee9-8030-648cb95f3250", "557bae8f-d89d-4283-ad0d-02c0e112873a", "0521130e-68ea-4794-8f6e-8913d194d217", "3fa0a1e0-2285-42d5-96ef-4c763f791fb9"]  
+    "Assets": ["234ecfda-01c7-4eff-8e30-996bf4c3e0c8", "f7ea83e6-efc4-483a-b598-e40625e45aff", "7bbbf84d-35fb-4438-a91e-a9ca121a32d6", "8a40f77e-adbe-466e-8b4c-1f56d114e315", 
+              "c0a9e40c-de6c-4af2-9b6e-6ceadf6380b2", "27b50e77-e877-44bd-b0da-dc8b3b3d45bd", "e2f715ff-279a-48b9-8fb3-3a720c2573f4", "477f294e-13f0-4287-b731-e498f7ce2f58", 
+              "41ce0c1dc3224da9986625717165aa62", "7120f67d-6f1f-44f3-b5b4-493cc4a94bd8", "11d35eee-4769-4769-9f75-60e66499230e", "cf1b3ead-6bfc-4a73-bf8e-a0025a83e3ba", 
+              "2ca2125d-c8e6-4461-b112-d195861063f2", "2c1addf9-ca22-4ee9-8030-648cb95f3250", "557bae8f-d89d-4283-ad0d-02c0e112873a", "0521130e-68ea-4794-8f6e-8913d194d217", 
+              "3fa0a1e0-2285-42d5-96ef-4c763f791fb9"]  
   },
   {
     "Id": "61a43c70-f7b9-4cd0-8229-dec1513d5c79",
@@ -42,8 +46,8 @@
     "Description": "Reports, Internal Project Rerports, PFI Sales Terms Quote and PO Request report, Department Utilisation Summary Report, Project Labour - By Hour Type Report, Department Utilisation by Employee, Department Hour Type Usage Report, Schedule Rates Report",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": ["27b50e77-e877-44bd-b0da-dc8b3b3d45bd", "81aa2044-abfd-46f3-91c4-35a82875208a", "552ef2d7-c5e2-45a4-932a-e9fa7694dd7c","0ad40ae3-603e-49ab-a152-1416837df5e6","f512406f-d1d1-461d-9ec9-b0ae9253d509",
-    "f79b0d50-4f6f-4373-a902-5ed43e91bba8","3116f39f-1a6d-481a-bd16-90de450a4d0b","7f71fb80-0ebd-475f-be8f-da6678ceba1f"]  
+    "Assets": ["27b50e77-e877-44bd-b0da-dc8b3b3d45bd", "81aa2044-abfd-46f3-91c4-35a82875208a", "552ef2d7-c5e2-45a4-932a-e9fa7694dd7c","0ad40ae3-603e-49ab-a152-1416837df5e6",
+              "f512406f-d1d1-461d-9ec9-b0ae9253d509", "f79b0d50-4f6f-4373-a902-5ed43e91bba8","3116f39f-1a6d-481a-bd16-90de450a4d0b","7f71fb80-0ebd-475f-be8f-da6678ceba1f"]  
   },      
   {
     "Id": "fd5df139-0ce8-4121-a3b9-6265de71b81b",
@@ -88,7 +92,10 @@
     "Description": "Part Description Naming Conventions, BOM Basics, Item Master Basics, Item History BOM and Item master Training and Reference articles, Item History, BOM and PS Required Dates",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "b4bb01b6-69bb-48df-bfa8-a21cf8a71697","51245b6b-3e4b-4b1b-9e0e-a415ba6ebae6", "03230687-73da-4f1a-a966-cf1e0709a602", "18386d66-3265-403e-a3db-cd66190a2281", "28c849d0-2ee2-4585-94fc-3088be80a962", "e8fd71d1-d2bd-4b1b-be42-fb5c59f5af5b", "cf005ac1-a60c-48a8-83ee-01edd375bae3", "e975002c-c8fd-4267-b7a6-e8faca5974bb", "81b35511-6a16-49c7-a684-deeae79bfb9c", "a4c5bd95-7ad5-4c95-91e1-c10fb51f5842", "0861f8fd-7a3b-46d9-a694-151d8d1148c1", "e61eda29-b519-4254-8b49-ef0abe2a9871", "18386d66-3265-403e-a3db-cd66190a2281", "bde9041e-a805-4c72-b51d-be452dde485e"]
+    "Assets": ["b4bb01b6-69bb-48df-bfa8-a21cf8a71697","51245b6b-3e4b-4b1b-9e0e-a415ba6ebae6", "03230687-73da-4f1a-a966-cf1e0709a602", "18386d66-3265-403e-a3db-cd66190a2281", 
+              "28c849d0-2ee2-4585-94fc-3088be80a962", "e8fd71d1-d2bd-4b1b-be42-fb5c59f5af5b", "cf005ac1-a60c-48a8-83ee-01edd375bae3", "e975002c-c8fd-4267-b7a6-e8faca5974bb", 
+              "81b35511-6a16-49c7-a684-deeae79bfb9c", "a4c5bd95-7ad5-4c95-91e1-c10fb51f5842", "0861f8fd-7a3b-46d9-a694-151d8d1148c1", "e61eda29-b519-4254-8b49-ef0abe2a9871", 
+              "18386d66-3265-403e-a3db-cd66190a2281", "bde9041e-a805-4c72-b51d-be452dde485e"]
   },
   {
     "Id": "0c921255-2974-42e5-9ca5-be6419425662",
@@ -103,7 +110,14 @@
     "Description": "Projects, Project Status, Project Status Report, Contacts, Parts Orders, Committed Costing, Creating a Sales Order, Creating a Change Order, Releasing a Project from the Sales Queue, Labour hours, Project and Part quotes, Action to Apply Standard Special Margins, Project quotes detailed, Action - Create Charge Up, Action - Post AR Terms T and M, Sales Queue, AR Queue Ok To Invoice, Parts Order AR Terms, Action for Parts Order AR Terms, Sales Rate, Sales Quote Import, Margins, Payment Schedules, Change to Hour Types, Required Dates for PMs - Cheat Sheet, Revised Dates on Pos - Cheat Sheet, Section Structure - Cheat Sheet, PFI Standard Projects, Revised Hour Types, Labour Sales Rates",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": ["110341bf-355d-48d5-b08d-addfe5da1c86", "58376659-8371-4348-ba08-a81d13ad2578", "f3a0ae73-c2eb-4610-a537-187e04a092fe", "dbb8d062-1efd-4a53-af90-1e4e112257b8", "d6efd45c-ab4c-4501-8090-7a42c71d6823", "52b1dcf9-00ab-457a-a2e6-36d94645dac0", "c8580b02-4c40-41b0-9ac1-7a9a7f38b915", "1e85c0d1-0b77-4003-ba90-a2314abd2393", "aa1ba8c9-bc95-4f03-a50c-a2e524576680", "35bf5f11-bd0c-4006-a554-d6b268991280", "73d66a17-a78b-4d40-a7d8-a3678cac5f5e", "e6c84227-db7d-4c96-aaf7-dbca77a49b7d", "8a4b4a04-9999-4db0-9412-349a8a4d35ac", "2731ff5f-e3fd-4ba7-8e93-5b69c463a350", "36c3d571-a5aa-47a8-9f38-ee82f4856137", "aa1ba8c9-bc95-4f03-a50c-a2e524576680", "436aa0a5-78f8-48dc-b9f2-04b74d4ef1f8", "574e5347-8631-4666-9a59-5374556cafd1", "fb64461e-8221-44b6-ad59-6a904141ec09","63a0c4e0-338d-4a26-9f59-cd8694e5b80c","e3cc6bf4-4e0a-4c64-ab39-eaae9490bf29", "acec23d7-9ffd-46aa-947a-13d0ccdd6594", "bb434e64-331d-43e9-895f-26ff46c77970", "848be730-17f5-4263-95c1-3014b9628a1a", "cc6a7778-9f6a-4bf8-898c-96725d7f8bf2", "5759671a-de21-4655-823c-fbbe28d7a52a", "329578f3-c7db-42d0-83ea-e995ded93561", "7d6c647d-a7c4-493f-baf2-5d87a2d82b8a", "ddb7a92d-27bf-44e5-a5aa-a9652313d042", "6d71fa03-f1c5-4ac0-aa48-85a1dbbd5fb4"]
+    "Assets": ["110341bf-355d-48d5-b08d-addfe5da1c86", "58376659-8371-4348-ba08-a81d13ad2578", "f3a0ae73-c2eb-4610-a537-187e04a092fe", "dbb8d062-1efd-4a53-af90-1e4e112257b8", 
+              "d6efd45c-ab4c-4501-8090-7a42c71d6823", "52b1dcf9-00ab-457a-a2e6-36d94645dac0", "c8580b02-4c40-41b0-9ac1-7a9a7f38b915", "1e85c0d1-0b77-4003-ba90-a2314abd2393", 
+              "aa1ba8c9-bc95-4f03-a50c-a2e524576680", "35bf5f11-bd0c-4006-a554-d6b268991280", "73d66a17-a78b-4d40-a7d8-a3678cac5f5e", "e6c84227-db7d-4c96-aaf7-dbca77a49b7d", 
+              "8a4b4a04-9999-4db0-9412-349a8a4d35ac", "2731ff5f-e3fd-4ba7-8e93-5b69c463a350", "36c3d571-a5aa-47a8-9f38-ee82f4856137", "aa1ba8c9-bc95-4f03-a50c-a2e524576680", 
+              "436aa0a5-78f8-48dc-b9f2-04b74d4ef1f8", "574e5347-8631-4666-9a59-5374556cafd1", "fb64461e-8221-44b6-ad59-6a904141ec09","63a0c4e0-338d-4a26-9f59-cd8694e5b80c", 
+              "e3cc6bf4-4e0a-4c64-ab39-eaae9490bf29", "acec23d7-9ffd-46aa-947a-13d0ccdd6594", "bb434e64-331d-43e9-895f-26ff46c77970", "848be730-17f5-4263-95c1-3014b9628a1a", 
+              "cc6a7778-9f6a-4bf8-898c-96725d7f8bf2", "5759671a-de21-4655-823c-fbbe28d7a52a", "329578f3-c7db-42d0-83ea-e995ded93561", "7d6c647d-a7c4-493f-baf2-5d87a2d82b8a", 
+              "ddb7a92d-27bf-44e5-a5aa-a9652313d042", "6d71fa03-f1c5-4ac0-aa48-85a1dbbd5fb4"]
   },
   {
     "Id": "180d3e35-a119-4dc9-a7b7-a3426623f1e5",
@@ -119,12 +133,12 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": ["a674de5d-fd6b-4856-a168-927bb81b2d8b", "a9dc6f6d-0dd2-4fea-9cd5-4b88f3e16f36", "b55f4972-defb-4697-a3bc-19ab1acd1017", "9c8d8a64-d29f-4b35-a37f-e07a5e3950a9", 
-               "e2c0fca3-1fa2-45db-bad7-7a85da4a0597", "18386d66-3265-403e-a3db-cd66190a2281", "77165dd0-60aa-45c3-8216-65d2e9ec88b5", "22575534-b365-46b6-90c3-b0beb05c9060", 
-               "f084b1b4-67a1-4b94-a237-d8d068a89085", "3eb50125-1872-431e-afb6-d42ccf65f94f", "ab2e3ece-2f35-4e61-8266-fb7b6f223f5e", "c61b3a2c-63d3-4b83-bc25-ec33f2ec8afb", 
-               "22575534-b365-46b6-90c3-b0beb05c9060", "2842ec04-5e0f-4306-b465-5231f9cc3627", "b8230938-36db-4c9a-83c8-a99349e791f0", "62f60cde-8245-4c69-bc6b-10ee8f8f6b6c",
-               "6ec0de3c-efc3-4e8c-b387-43c8c0079ed9", "e9e16409-9680-44b2-881a-924cd027ce89", "ce8220cb-dbf0-4728-805d-91ab7517f6ef", "7105adda-71f1-4b5e-b2e7-ecc8d5a7a37b", 
-               "5fa64f53-f985-42a3-a682-e513f8fedf89", "99c1b91e-baab-4293-9712-31838b8fe575", "d3707f14-47ce-4a93-8377-7acfa6c00314", "8590e560-12a3-4a54-a07b-875c49c3ca2f",
-               "aaf8cbf8-ecbc-430e-b2d9-700c80bef505"] 
+              "e2c0fca3-1fa2-45db-bad7-7a85da4a0597", "18386d66-3265-403e-a3db-cd66190a2281", "77165dd0-60aa-45c3-8216-65d2e9ec88b5", "22575534-b365-46b6-90c3-b0beb05c9060", 
+              "f084b1b4-67a1-4b94-a237-d8d068a89085", "3eb50125-1872-431e-afb6-d42ccf65f94f", "ab2e3ece-2f35-4e61-8266-fb7b6f223f5e", "c61b3a2c-63d3-4b83-bc25-ec33f2ec8afb", 
+              "22575534-b365-46b6-90c3-b0beb05c9060", "2842ec04-5e0f-4306-b465-5231f9cc3627", "b8230938-36db-4c9a-83c8-a99349e791f0", "62f60cde-8245-4c69-bc6b-10ee8f8f6b6c", 
+              "6ec0de3c-efc3-4e8c-b387-43c8c0079ed9", "e9e16409-9680-44b2-881a-924cd027ce89", "ce8220cb-dbf0-4728-805d-91ab7517f6ef", "7105adda-71f1-4b5e-b2e7-ecc8d5a7a37b", 
+              "5fa64f53-f985-42a3-a682-e513f8fedf89", "99c1b91e-baab-4293-9712-31838b8fe575", "d3707f14-47ce-4a93-8377-7acfa6c00314", "8590e560-12a3-4a54-a07b-875c49c3ca2f", 
+              "aaf8cbf8-ecbc-430e-b2d9-700c80bef505"] 
   },
   {
     "Id": "d92ee190-4a2a-469c-8f40-813acf23bf3b",
@@ -139,7 +153,7 @@
     "Description": "Contains Process Schedules, Initialising process schedules overall - Cheat sheet, Shop floor collection- Cheat Sheet, Process Schedules Reports",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "8420c287-9f7c-49e5-b8ab-e0d5029f3936","8cd83674-d3a8-4003-9483-60948f5c5aa8", "22f4607a-c0c2-462c-bdaf-72c2b49a9bc2", "211cb323-1764-4c89-bb6f-e6c607b2cb31" ]
+    "Assets": ["8420c287-9f7c-49e5-b8ab-e0d5029f3936","8cd83674-d3a8-4003-9483-60948f5c5aa8", "22f4607a-c0c2-462c-bdaf-72c2b49a9bc2", "211cb323-1764-4c89-bb6f-e6c607b2cb31"]
   },
   {
     "Id": "557f8589-5e38-46f7-8588-843722cff71e",
@@ -154,10 +168,11 @@
     "Description": "Contains Shipping an Order, Receive PO, Receiving Logs, Import Inventory, Inventory, Packing Slips-Cheat sheet, Convert PO into Packing Slip, Pulling from Inventory, Creating Packing Slips, Shippind Dockets, Receiving Transitions, Receiving Process in Teto, Packing and Shipping List, Shipping Dockets explained, Taking items from the Cage, Taking uncereived items, Miscellaneous shipping item, Work Orders For Parts or Assemblies",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "f7b2952a-2307-49c7-993a-ed15d4a79435", "da711b8f-4b67-42b4-89cd-7324c9af7b00", "91e7a7e3-2970-4c04-81ed-5e23a9751427", "ea5ba1e8-e055-40bf-99f9-766109ad1070", "f69ee1ba-d26c-4e72-aa81-c90b4e82fec1","32851b65-807c-40fc-853e-8f6a37351d7b",
-                "15496809-0ee5-4045-9072-ae7d1b7fe574", "8b208f18-42c5-4e4d-a883-8c2d5f6a6fa3", "a3710170-4da0-407c-8188-303d3dc70ff4","d322b271-cfa9-4af4-b9b6-15c9c5037f36", "d7c53650-0b84-414e-a03a-3de5ea9c8ca1",
-                "dfe921dd-6899-4c40-ac7b-ebd0a1afac29","f8b3d01d-8d1e-4968-b0f1-17ec0567a94c", "edfa2c9a-f2fb-4919-8ea2-a69e5a633c54", "79f9b838-4bf2-4aa6-b8a7-c0f6aa11a436", "15c933be-8f01-4da4-8483-a0925d2bcbb6",
-                "bd973097-2784-4dcc-b659-b2d83f836cc7", "829832a4-527e-4c46-b7b4-658157d50fec" ]
+    "Assets": ["f7b2952a-2307-49c7-993a-ed15d4a79435", "da711b8f-4b67-42b4-89cd-7324c9af7b00", "91e7a7e3-2970-4c04-81ed-5e23a9751427", "ea5ba1e8-e055-40bf-99f9-766109ad1070", 
+              "f69ee1ba-d26c-4e72-aa81-c90b4e82fec1","32851b65-807c-40fc-853e-8f6a37351d7b", "15496809-0ee5-4045-9072-ae7d1b7fe574", "8b208f18-42c5-4e4d-a883-8c2d5f6a6fa3", 
+              "a3710170-4da0-407c-8188-303d3dc70ff4","d322b271-cfa9-4af4-b9b6-15c9c5037f36", "d7c53650-0b84-414e-a03a-3de5ea9c8ca1", "dfe921dd-6899-4c40-ac7b-ebd0a1afac29", 
+              "f8b3d01d-8d1e-4968-b0f1-17ec0567a94c", "edfa2c9a-f2fb-4919-8ea2-a69e5a633c54", "79f9b838-4bf2-4aa6-b8a7-c0f6aa11a436", "15c933be-8f01-4da4-8483-a0925d2bcbb6", 
+              "bd973097-2784-4dcc-b659-b2d83f836cc7", "829832a4-527e-4c46-b7b4-658157d50fec"]
   },
   {
     "Id": "650271ff-813d-4711-9d41-d62eeea9b99e",
@@ -172,7 +187,9 @@
     "Description": "Contains Accounts Receivable, Accounts Payable, WIP Setup and In House Orders, Importing AR and AP into Xero, Action for posting Time and Materil Charge Ups to an Invoice, Realeasing AR Queue, Accounting Queue, AR Terms Invoicing, In House Orders",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "2b99eef9-de0d-4d2c-b8ce-02b47de7ece2", "05762df2-67a1-4949-b9c0-3956278b5975", "8d2847ff-f17b-4934-9ca2-50c20dded5bc", "c67505be-d6a5-4d00-af5f-66f30b78a7e6", "1e17ac52-753b-4f69-8b45-72d630a94059", "36c3d571-a5aa-47a8-9f38-ee82f4856137", "46cd3702-9892-4f4b-b0e9-8e9be15aceab","3d2d6cb0-7d7a-49ec-b506-87bc7a24dbfb", "60acb279-57e0-449c-873e-e96b12a19ba9", "2b8fcdf2-6b8f-460b-8a8a-6b5e497a5396"]
+    "Assets": ["2b99eef9-de0d-4d2c-b8ce-02b47de7ece2", "05762df2-67a1-4949-b9c0-3956278b5975", "8d2847ff-f17b-4934-9ca2-50c20dded5bc", "c67505be-d6a5-4d00-af5f-66f30b78a7e6", 
+              "1e17ac52-753b-4f69-8b45-72d630a94059", "36c3d571-a5aa-47a8-9f38-ee82f4856137", "46cd3702-9892-4f4b-b0e9-8e9be15aceab","3d2d6cb0-7d7a-49ec-b506-87bc7a24dbfb", 
+              "60acb279-57e0-449c-873e-e96b12a19ba9", "2b8fcdf2-6b8f-460b-8a8a-6b5e497a5396"]
   },
   {
     "Id": "70dc91ad-df3d-4827-8656-f55a242f5347",
@@ -187,7 +204,7 @@
     "Description": "Contains ETO Administration, Events Log",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "21f3d6e5-34c5-4c66-b6e7-81b4a5dac097", "11d35eee-4769-4769-9f75-60e66499230e" ]
+    "Assets": ["21f3d6e5-34c5-4c66-b6e7-81b4a5dac097", "11d35eee-4769-4769-9f75-60e66499230e"]
   },
   {
     "Id": "84e3b212-583c-4531-b182-5ff7b41ab5cc",
@@ -202,7 +219,7 @@
     "Description": "Printer related reference guides",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "a0b7c9ef-7b35-4455-965f-bd6833887a46" ]
+    "Assets": ["a0b7c9ef-7b35-4455-965f-bd6833887a46"]
   },
   {
     "Id": "e9d0d00f-1c39-4ffb-868f-d7fbebada992",
@@ -217,7 +234,7 @@
     "Description": "Booking a meeting room, IT Solution Centre, Task scheduler",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "e1941517-a538-4552-9099-5d021b629cff", "0fd3108f-df56-420f-bde1-448b45d8cd3b", "a6d1d5bf-7d88-41eb-8fc3-48e41bab9f8d" ]
+    "Assets": ["e1941517-a538-4552-9099-5d021b629cff", "0fd3108f-df56-420f-bde1-448b45d8cd3b", "a6d1d5bf-7d88-41eb-8fc3-48e41bab9f8d"]
   },  
   {
     "Id": "56ec37b8-dace-4be7-9483-9e69c5a65c21",
@@ -232,7 +249,7 @@
     "Description": "Autodesk - Inventor Essentials",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "40f2f77f-605b-47e6-8dbc-31c54e2567d6", "8f5c2c2e-5984-44a2-8226-2c5b7086a82e", "de1f5b02-c003-4194-98b7-84ae3ce24f91", "2f7cec61-6e22-468b-b90d-b539de269804" ]
+    "Assets": ["40f2f77f-605b-47e6-8dbc-31c54e2567d6", "8f5c2c2e-5984-44a2-8226-2c5b7086a82e", "de1f5b02-c003-4194-98b7-84ae3ce24f91", "2f7cec61-6e22-468b-b90d-b539de269804"]
   },
   {
     "Id": "bc2afef5-4994-4168-ae8d-1e106d261bae",
@@ -247,7 +264,7 @@
     "Description": "Autodesk Inventor Parts libraries",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "9bb0beb6-df02-427d-af1e-21ba0514999e" ]
+    "Assets": ["9bb0beb6-df02-427d-af1e-21ba0514999e"]
   },
   {
     "Id": "ad751003-1c3d-49c9-bbf6-0a736ce375fe",
@@ -262,7 +279,7 @@
     "Description": "PFIs Common Inventor Addin ",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "973cac95-3f7c-46de-9f68-761619a32b17" ]
+    "Assets": ["973cac95-3f7c-46de-9f68-761619a32b17"]
   },
   {
     "Id": "6681614e-42d4-4283-b279-379cd48f16ac",
@@ -277,7 +294,7 @@
     "Description": "PFIs Drawing Utility Inventor Addin, Inventor 2024 Customisation settings, Inventor drawing example, Drawing Notes",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "7ca1991d-ac6e-46a7-aa14-49a0da726d9b", "f7806883-ad1c-445f-a484-63970d92772c", "e6cc2e9c-220d-4d33-849c-12ff0c233e9a", "54125e61-db03-408c-a596-9bf831a2603b"]
+    "Assets": ["7ca1991d-ac6e-46a7-aa14-49a0da726d9b", "f7806883-ad1c-445f-a484-63970d92772c", "e6cc2e9c-220d-4d33-849c-12ff0c233e9a", "54125e61-db03-408c-a596-9bf831a2603b"]
   },
   {
     "Id": "a56db1df-2b98-48de-93a5-0e4fa940fb70",
@@ -292,7 +309,8 @@
     "Description": "PFIs Property Editor Inventor Addin",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "de8bf849-479c-4778-8d8b-166cb5fad3ac", "059595b4-c250-4b2f-9e45-ff3cfd850aa7", "a9320813-bbf5-4b42-a587-2cf0c360cb2f", "f9963817-2471-47bc-acce-321381327925", "11708092-2a8f-4a8d-ad89-092478b394cb" ]
+    "Assets": ["de8bf849-479c-4778-8d8b-166cb5fad3ac", "059595b4-c250-4b2f-9e45-ff3cfd850aa7", "a9320813-bbf5-4b42-a587-2cf0c360cb2f", "f9963817-2471-47bc-acce-321381327925", 
+              "11708092-2a8f-4a8d-ad89-092478b394cb"]
   },
   {
     "Id": "8a7974e0-731c-4c17-85b6-a7e5de6cc0bb",
@@ -307,7 +325,7 @@
     "Description": "Microsoft Excel reference and training articles",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "4a42896a-ba38-49fa-a419-1975bcca5979", "f28a5f38-09dd-4080-9fd7-f3b7f2850060" ]
+    "Assets": ["4a42896a-ba38-49fa-a419-1975bcca5979", "f28a5f38-09dd-4080-9fd7-f3b7f2850060"]
   },
   {
     "Id": "dc1b2b57-d662-4b5a-9263-5b1a30f9f9cf",
@@ -321,8 +339,8 @@
     "CatId": "1892f8a9-198c-4c54-bbca-cc8dfd1a05f5",
     "Description": "Microsft Teams reference and training articles",
     "StatusTagId": "",
-    "StatusNote": "",
-    "Assets": [ "eb98fa5b-381a-42c4-8d81-49a37e0a1801" ]
+    "StatusNote": "", 
+    "Assets": ["eb98fa5b-381a-42c4-8d81-49a37e0a1801"]
   },
   {
     "Id": "8bbd809a-6a12-46ba-b470-1706182cd57c",
@@ -337,7 +355,7 @@
     "Description": "Microsft Word reference and training articles",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "2fe640b1-8cd8-4a3f-8924-814d7bdf8d05" ]
+    "Assets": ["2fe640b1-8cd8-4a3f-8924-814d7bdf8d05"]
   },
   {
     "Id": "6c08b7f3-7fad-4fd4-906e-2cae50791fc8",
@@ -352,7 +370,7 @@
     "Description": "Starting app and selecting folders to create",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "49f5bba9-5ebd-4a46-84e7-a624e718f5ae" ]
+    "Assets": ["49f5bba9-5ebd-4a46-84e7-a624e718f5ae"]
   },
   {
     "Id": "9055fb7d-7f82-4fe2-b9bb-023cc7d817df",
@@ -367,7 +385,7 @@
     "Description": "Starting app, uploading ETO related documents, viewing imported documents",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "e33d2cc0-6ff9-4807-bde5-f290b09cb840" ]
+    "Assets": ["e33d2cc0-6ff9-4807-bde5-f290b09cb840"]
   },
   {
     "Id": "50d9d5ed-5069-4479-aebc-4f703020153c",
@@ -382,7 +400,7 @@
     "Description": "Starting app",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "08fce68e-92e2-43bc-ac61-d0f0d127399b" ]
+    "Assets": ["08fce68e-92e2-43bc-ac61-d0f0d127399b"]
   },
   {
     "Id": "6b527f9d647040ea8087830a4f460131",
@@ -397,7 +415,7 @@
     "Description": "Starting app",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "661774148c514218bd25520dbd9f594d" ]
+    "Assets": ["661774148c514218bd25520dbd9f594d"]
   },   
   {
     "Id": "d659af9e-76e1-47ec-8b44-2b56f4ca1fc6",
@@ -412,7 +430,7 @@
     "Description": "Starting app, zipping files for RFQs and POs, emailing error alerts if files missing, Procure Collator Drawing Packs",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "c6cc7f86-0302-4e80-b48b-ef8eb8cf7cbf", "f1f838f7-36dc-4095-b45f-c1281d3c7c7e" ]
+    "Assets": ["c6cc7f86-0302-4e80-b48b-ef8eb8cf7cbf", "f1f838f7-36dc-4095-b45f-c1281d3c7c7e"]
   },
   {
     "Id": "22d4c468-f330-40c9-ab44-0351593d970b",
@@ -427,7 +445,9 @@
     "Description": "Contains logging in, installing the app, navigation, submitting timesheets, requesting leave, Entering my Timesheet in Ready, Requesting leave, Sleeping Away From Home Allowance(SAFHA), Timesheet Entry with Ready",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "46c91330-7b61-419f-94fb-5b9a29fa6dca", "97c5063df84c441889321cba8d2f689b", "81ec408e-8684-45b8-961b-5292f0f9f3fe", "4d6506bc-2497-49fd-b825-d23bfd9c003c", "71040f6a-2f81-43a1-b837-df7afd23d132", "fdbe594f-5073-4839-bcfb-bb785fa72eff", "d08ae66f-8901-4ee9-a2cd-2081921b241d", "f985c1e2-e9b5-47e9-811e-139738b83228", "9229f366-e6e5-4265-8d05-e5ca270de175" ]
+    "Assets": ["46c91330-7b61-419f-94fb-5b9a29fa6dca", "97c5063df84c441889321cba8d2f689b", "81ec408e-8684-45b8-961b-5292f0f9f3fe", "4d6506bc-2497-49fd-b825-d23bfd9c003c", 
+              "71040f6a-2f81-43a1-b837-df7afd23d132", "fdbe594f-5073-4839-bcfb-bb785fa72eff", "d08ae66f-8901-4ee9-a2cd-2081921b241d", "f985c1e2-e9b5-47e9-811e-139738b83228", 
+              "9229f366-e6e5-4265-8d05-e5ca270de175"]
   },
   {
     "Id": "14519672-7755-43d7-b413-cabeab13ad7a",
@@ -442,7 +462,7 @@
     "Description": "Contains accessing staff files, onboarding, request a change to employee details (i.e salary change), Leave approval",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "068cf9c2448743ba8c1a37d9a66265b5", "71767460-bbdd-4299-b2e4-44824dbb8733", "2c7d1611-7345-476a-863c-21ce5544139a" ]
+    "Assets": ["068cf9c2448743ba8c1a37d9a66265b5", "71767460-bbdd-4299-b2e4-44824dbb8733", "2c7d1611-7345-476a-863c-21ce5544139a"]
   },
   {
     "Id": "8d8ba2f5-18aa-4326-acd8-9492c8054d29",
@@ -457,7 +477,7 @@
     "Description": "Contains onboarding, offboarding adding an employee to ETO, updating employee details, accruals training, Leave Approval",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "068cf9c2448743ba8c1a37d9a66265b5", "d4e1ac06-ab9b-45a4-a1a7-f1e4228cc20b", "d4e1ac06-ab9b-45a4-a1a7-f1e4228cc20b", "2c7d1611-7345-476a-863c-21ce5544139a" ]
+    "Assets": ["068cf9c2448743ba8c1a37d9a66265b5", "d4e1ac06-ab9b-45a4-a1a7-f1e4228cc20b", "d4e1ac06-ab9b-45a4-a1a7-f1e4228cc20b", "2c7d1611-7345-476a-863c-21ce5544139a"]
   },
   {
     "Id": "6c3149d5-b71b-4736-bd77-1a2b4050f8d3",
@@ -472,12 +492,8 @@
     "Description": "Autodesk - Vault Essentials",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [
-      "e63245fc-a9b5-4164-876a-1f915d9ab908",
-      "f547c9b4-76eb-4342-b760-feebbe350102",
-      "7cf36ea3-0a89-4fa7-8294-8b1a7a07a711",
-      "08c743a0-980d-430e-bae7-d59262071695",
-      "691c5808-cb9b-4789-93e5-9b0fe17b98a8"  ]
+    "Assets": ["e63245fc-a9b5-4164-876a-1f915d9ab908", "f547c9b4-76eb-4342-b760-feebbe350102", "7cf36ea3-0a89-4fa7-8294-8b1a7a07a711", "08c743a0-980d-430e-bae7-d59262071695", 
+              "691c5808-cb9b-4789-93e5-9b0fe17b98a8"]
   },
   {
     "Id": "791d725f-9d15-413e-8b4c-cbb6e25cb38f",
@@ -492,8 +508,8 @@
     "Description": "Autodesk - Vault - Lifecycles and Revisions",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "d9fc7a6c-1ae2-46fd-a235-563ec325fcbc", "f06b653f-7e97-4097-899d-ce2790da056a",
-                "0100f3d8-2475-474a-bbe4-d33aed5cb606", "bf8820cf-476a-4db6-b09a-7f6dd92169a5", "d2197a3153ef4539b178d5de927a5f0b", "93182c89-3d57-4cb2-85e5-7a4ae6374626"]
+    "Assets": ["d9fc7a6c-1ae2-46fd-a235-563ec325fcbc", "f06b653f-7e97-4097-899d-ce2790da056a", "0100f3d8-2475-474a-bbe4-d33aed5cb606", "bf8820cf-476a-4db6-b09a-7f6dd92169a5", 
+              "d2197a3153ef4539b178d5de927a5f0b", "93182c89-3d57-4cb2-85e5-7a4ae6374626"]
   },
  {
     "Id": "026e429f-3f6a-47e2-bcf3-de13e4c9e6f5",
@@ -508,7 +524,7 @@
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "65452934-8e01-4fc7-a7ed-0060ba9134b2"]
+    "Assets": ["65452934-8e01-4fc7-a7ed-0060ba9134b2"]
   },
  {
     "Id": "42556e9e-c351-4512-a321-055b7fe21e36",
@@ -538,7 +554,8 @@
     "Description": "Shaft Design Guide For Hollow Shaft Gearmotors, Sheet Metal design guide, Machining designs guide",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": ["74c76353-ab91-4048-a6ec-213078493211", "a4c5bd95-7ad5-4c95-91e1-c10fb51f5842", "b4bb01b6-69bb-48df-bfa8-a21cf8a71697", "0861f8fd-7a3b-46d9-a694-151d8d1148c1", "534a2f9e-b25d-4745-a40a-d430dcdd1996", "525aeeb3-7160-431c-bdc3-e2a45ab29ef3", "81d58862-d0a5-4a37-87cd-8cf46690c73c"]
+    "Assets": ["74c76353-ab91-4048-a6ec-213078493211", "a4c5bd95-7ad5-4c95-91e1-c10fb51f5842", "b4bb01b6-69bb-48df-bfa8-a21cf8a71697", "0861f8fd-7a3b-46d9-a694-151d8d1148c1", 
+              "534a2f9e-b25d-4745-a40a-d430dcdd1996", "525aeeb3-7160-431c-bdc3-e2a45ab29ef3", "81d58862-d0a5-4a37-87cd-8cf46690c73c"]
   },
   {
     "Id": "e5f6d61c-bc7f-4327-b115-0a2b127431a9",
@@ -553,7 +570,7 @@
     "Description": "Starting app",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "e692bc64-22a9-427c-ac6d-4747d358180c"]
+    "Assets": ["e692bc64-22a9-427c-ac6d-4747d358180c"]
   },
   {
     "Id": "7d3bf510-3599-4eb3-a22f-1c02648f55ea",
@@ -568,7 +585,7 @@
     "Description": "Starting app",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "a8b96c85-165f-4887-bada-99e346b6c450"]
+    "Assets": ["a8b96c85-165f-4887-bada-99e346b6c450"]
   },  
   {
     "Id": "cf71d451-e224-4d04-84de-90491c8ac07a",
@@ -658,7 +675,7 @@
     "Description": "Receiving Procedure, Receiving Process in TETO, Receiving Transitions , Receiving Delivery Docket, Taking items from the Cage, Taking unreceived items, Paper Importer, Take It APP, Place It APP, Receiving troubleshooting, Receiving items on hold",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": ["728489ad-1b45-4f4f-80ca-9a6fb61f4468", "dfe921dd-6899-4c40-ac7b-ebd0a1afac29","d7c53650-0b84-414e-a03a-3de5ea9c8ca1","e82330ea-1276-40ae-a71a-cbc4d7ebbe47", 
+    "Assets": ["728489ad-1b45-4f4f-80ca-9a6fb61f4468", "dfe921dd-6899-4c40-ac7b-ebd0a1afac29", "d7c53650-0b84-414e-a03a-3de5ea9c8ca1", "e82330ea-1276-40ae-a71a-cbc4d7ebbe47", 
                "79f9b838-4bf2-4aa6-b8a7-c0f6aa11a436", "15c933be-8f01-4da4-8483-a0925d2bcbb6", "e33d2cc0-6ff9-4807-bde5-f290b09cb840", "4caa9080-94bf-4f6b-b5b7-c2bd2f096687",
                "66314ac2-1334-42a3-ad84-496a022169af", "f7a7ae8e-9eeb-4cd9-8599-b84db013a7cb", "df83ee81-2a22-4cb2-987e-c6dd6e1a7aae"]
   },
@@ -750,6 +767,7 @@
     "Description": "Parts order, Action for Parts order, Project and Part Quotes, Releasing Project Quotes, Requisition Items, Reserving and Pulling a part from inventory, Packing Slips",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": ["574e5347-8631-4666-9a59-5374556cafd1", "fb64461e-8221-44b6-ad59-6a904141ec09", "73d66a17-a78b-4d40-a7d8-a3678cac5f5e", "3fa0a1e0-2285-42d5-96ef-4c763f791fb9", "e2c0fca3-1fa2-45db-bad7-7a85da4a0597", "6d66a166-b899-4526-aa0c-686189273547", "15496809-0ee5-4045-9072-ae7d1b7fe574"]  
+    "Assets": ["574e5347-8631-4666-9a59-5374556cafd1", "fb64461e-8221-44b6-ad59-6a904141ec09", "73d66a17-a78b-4d40-a7d8-a3678cac5f5e", "3fa0a1e0-2285-42d5-96ef-4c763f791fb9", 
+              "e2c0fca3-1fa2-45db-bad7-7a85da4a0597", "6d66a166-b899-4526-aa0c-686189273547", "15496809-0ee5-4045-9072-ae7d1b7fe574"]  
   }
 ]
