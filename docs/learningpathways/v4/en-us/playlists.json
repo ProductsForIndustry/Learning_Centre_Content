@@ -769,5 +769,35 @@
     "StatusNote": "",
     "Assets": ["574e5347-8631-4666-9a59-5374556cafd1", "fb64461e-8221-44b6-ad59-6a904141ec09", "73d66a17-a78b-4d40-a7d8-a3678cac5f5e", "3fa0a1e0-2285-42d5-96ef-4c763f791fb9", 
               "e2c0fca3-1fa2-45db-bad7-7a85da4a0597", "6d66a166-b899-4526-aa0c-686189273547", "15496809-0ee5-4045-9072-ae7d1b7fe574"]  
+  },
+  {
+    "Id": "10618bbd-cba9-4498-b8c4-bb0b5cf3fa5e",
+    "Title": "ETO Sales",
+    "Image": "images/playlists/PFI_ETO Essentials.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "1e1acf20-30b5-4679-8e6e-9780e8b9cd54",
+    "SubjectId": "",
+    "Source": "PFI",
+    "CatId": "66f3d862-4c81-40ac-bf59-b4f8b1ab7e60",
+    "Description": "",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [""]
+  },
+  {
+    "Id": "02c8e62e-4b90-4c4f-9cdd-151880332928",
+    "Title": "ETO Others",
+    "Image": "images/playlists/PFI_ETO Essentials.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "1e1acf20-30b5-4679-8e6e-9780e8b9cd54",
+    "SubjectId": "",
+    "Source": "PFI",
+    "CatId": "66f3d862-4c81-40ac-bf59-b4f8b1ab7e60",
+    "Description": "",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [""]
   }
 ]
