@@ -773,7 +773,7 @@
   {
     "Id": "10618bbd-cba9-4498-b8c4-bb0b5cf3fa5e",
     "Title": "ETO Sales",
-    "Image": "images/playlists/PFI_ETO Essentials.png",
+    "Image": "images/playlists/ETO_KB_Sales.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "1e1acf20-30b5-4679-8e6e-9780e8b9cd54",
@@ -788,7 +788,7 @@
   {
     "Id": "02c8e62e-4b90-4c4f-9cdd-151880332928",
     "Title": "ETO Others",
-    "Image": "images/playlists/PFI_ETO Essentials.png",
+    "Image": "images/playlists/ETO_KB_Others.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "1e1acf20-30b5-4679-8e6e-9780e8b9cd54",
