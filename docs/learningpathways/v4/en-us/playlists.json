@@ -551,11 +551,11 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "3903bf28-4c3d-4042-a1cf-af355c0e2ba5",
-    "Description": "Shaft Design Guide For Hollow Shaft Gearmotors, Sheet Metal design guide, Machining designs guide",
+    "Description": "Shaft Design Guide For Hollow Shaft Gearmotors, Sheet Metal design guide, Machining designs guide, Standard Library Parts - Categories",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": ["74c76353-ab91-4048-a6ec-213078493211", "a4c5bd95-7ad5-4c95-91e1-c10fb51f5842", "b4bb01b6-69bb-48df-bfa8-a21cf8a71697", "0861f8fd-7a3b-46d9-a694-151d8d1148c1", 
-              "534a2f9e-b25d-4745-a40a-d430dcdd1996", "525aeeb3-7160-431c-bdc3-e2a45ab29ef3", "81d58862-d0a5-4a37-87cd-8cf46690c73c"]
+              "534a2f9e-b25d-4745-a40a-d430dcdd1996", "525aeeb3-7160-431c-bdc3-e2a45ab29ef3", "81d58862-d0a5-4a37-87cd-8cf46690c73c", "0e5e675a-2c41-482b-9fb1-ffa8034c621c"]
   },
   {
     "Id": "e5f6d61c-bc7f-4327-b115-0a2b127431a9",
