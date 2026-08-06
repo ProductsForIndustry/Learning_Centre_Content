@@ -809,7 +809,7 @@
     "SubjectId": "",
     "Source": "PFI",
     "CatId": "b51f763a-9df1-4de7-939c-3ecd3ec8ff27",
-    "Description": "Starting app",
+    "Description": "PFI internally developed app for timesheet management that is integrated with Total ETO.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": ["1aa9bce3-68ae-4060-8d33-808903f4c055"]
